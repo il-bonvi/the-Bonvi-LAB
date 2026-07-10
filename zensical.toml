@@ -1,0 +1,6 @@
+[project]
+site_name = "The Bonvi LAB"
+site_url = "https://il-bonvi.github.io/the-Bonvi-LAB/"
+
+[project.theme]
+variant = "modern"

@@ -1,34 +1,21 @@
 # Python virtual environment
 .venv/
-venv/
-env/
 
 # Python cache
 __pycache__/
 *.py[cod]
-*$py.class
 
-# MkDocs build output
-/site/
-
-# MkDocs cache
-.cache/
+# Zensical build
+site/
 
 # IDE
 .vscode/
 .idea/
 
-# OS files
+# OS
 .DS_Store
 Thumbs.db
 
 # Temporary files
 *.tmp
-*.log
-
-# Jupyter notebooks checkpoints (se usati)
-.ipynb_checkpoints/
-
-# Build files
-dist/
-build/
+*.bak
