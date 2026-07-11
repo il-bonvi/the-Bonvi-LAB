@@ -1,6 +1,6 @@
-# Sezione 12 — Casi pratici: Emocromo e Metabolismo del ferro
+# Casi pratici: Emocromo e Metabolismo del ferro
 
-*Ogni caso applica i principi delle Sezioni 2, 3 e 11. Vedi i capitoli richiamati per l'approfondimento teorico completo.*
+*Ogni caso applica i principi delle Sezioni precedenti. Vedi i capitoli richiamati per l'approfondimento teorico completo.*
 
 ---
 
@@ -22,7 +22,7 @@ Uomo, 29 anni, maratoneta a livello nazionale, in piena fase di carico (volume s
 
 #### Interpretazione
 
-Hb lievemente sotto il range di popolazione generale, ma MCV normale, ferritina e TSAT adeguati, PCR normale. Il quadro è coerente con pseudo-anemia da espansione volemica (vedi [[sezione-1-fondamenti-di-interpretazione]]), adattamento atteso in un maratoneta ad alto volume, non con una sideropenia.
+Hb lievemente sotto il range di popolazione generale, ma MCV normale, ferritina e TSAT adeguati, PCR normale. Il quadro è coerente con pseudo-anemia da espansione volemica (vedi [Fondamenti Interpretazione](01_fondamenti_interpretazione.md)), adattamento atteso in un maratoneta ad alto volume, non con una sideropenia.
 
 #### Decisione pratica
 
@@ -51,7 +51,7 @@ Donna, 24 anni, centrocampista di prima squadra, metà stagione, nessun sintomo 
 
 #### Interpretazione
 
-Ferritina ai limiti bassi del range di laboratorio ma sotto il target pratico sportivo (>30-35 ng/mL), TSAT ridotto, PCR normale: quadro coerente con sideropenia senza anemia conclamata (IDNA), condizione comunque associata a possibile compromissione della performance (vedi [[sezione-3-biomarcatori-metabolismo-del-ferro]]).
+Ferritina ai limiti bassi del range di laboratorio ma sotto il target pratico sportivo (>30-35 ng/mL), TSAT ridotto, PCR normale: quadro coerente con sideropenia senza anemia conclamata (IDNA), condizione comunque associata a possibile compromissione della performance (vedi [Ferro](03_biomarcatori_ferro.md)).
 
 #### Decisione pratica
 
@@ -80,7 +80,7 @@ Uomo, 31 anni, ciclista professionista, rientrato da un blocco di carico molto e
 
 #### Interpretazione
 
-Ferritina apparentemente normale, ma PCR elevata: la ferritina, come proteina di fase acuta, può essere falsamente rassicurante in questo contesto. Il TSAT ridotto rafforza il sospetto di una sideropenia funzionale mascherata dall'infiammazione (vedi algoritmo "PCR alta" in [[sezione-11-algoritmi-decisionali]]).
+Ferritina apparentemente normale, ma PCR elevata: la ferritina, come proteina di fase acuta, può essere falsamente rassicurante in questo contesto. Il TSAT ridotto rafforza il sospetto di una sideropenia funzionale mascherata dall'infiammazione (vedi algoritmo "PCR alta" in [Algoritmi decisionali](11_algoritmi_decisionali.md)).
 
 #### Decisione pratica
 
@@ -109,7 +109,7 @@ Donna, 19 anni, nuotatrice agonista, controllo di routine di inizio stagione, as
 
 #### Interpretazione
 
-MCV ancora normale ma RDW elevato e ferritina ai limiti bassi: pattern coerente con sideropenia in fase iniziale, prima dello sviluppo di una microcitosi conclamata (vedi [[sezione-2-biomarcatori-emocromo]], capitolo RDW).
+MCV ancora normale ma RDW elevato e ferritina ai limiti bassi: pattern coerente con sideropenia in fase iniziale, prima dello sviluppo di una microcitosi conclamata (vedi [Emocromo](02_biomarcatori_emocromo.md), capitolo RDW).
 
 #### Decisione pratica
 
@@ -139,7 +139,7 @@ Uomo, 35 anni, ultra-trail runner, controllo post-gara di 100 km, asintomatico, 
 
 #### Interpretazione
 
-Bilirubina indiretta e LDH lievemente elevate, con reticolociti ai limiti alti ma Hb normale: quadro compatibile con una lieve emolisi da impatto ("footstrike hemolysis"), fenomeno noto nei corridori di lunga distanza, che in questo caso non ha determinato anemia (vedi [[sezione-5-biomarcatori-funzione-renale-ed-epatica]], capitolo bilirubina).
+Bilirubina indiretta e LDH lievemente elevate, con reticolociti ai limiti alti ma Hb normale: quadro compatibile con una lieve emolisi da impatto ("footstrike hemolysis"), fenomeno noto nei corridori di lunga distanza, che in questo caso non ha determinato anemia (vedi [Funzione renale ed epatica](05_biomarcatori_funzione_organo.md), capitolo bilirubina).
 
 #### Decisione pratica
 
@@ -169,7 +169,7 @@ Donna, 27 anni, triatleta age-group, dieta vegana da 4 anni, riferisce affaticam
 
 #### Interpretazione
 
-Anemia macrocitica con reticolociti bassi (non rigenerativa) e B12 francamente ridotta: quadro coerente con anemia megaloblastica da carenza di B12, verosimilmente legata alla dieta vegana senza adeguata supplementazione (vedi [[sezione-6-biomarcatori-vitamine-micronutrienti-ed-elettroliti]], capitolo B12).
+Anemia macrocitica con reticolociti bassi (non rigenerativa) e B12 francamente ridotta: quadro coerente con anemia megaloblastica da carenza di B12, verosimilmente legata alla dieta vegana senza adeguata supplementazione (vedi [Vitamine, micronutrienti ed elettroliti](06_biomarcatori_micronutrienti_elettroliti.md), capitolo B12).
 
 #### Decisione pratica
 
@@ -197,7 +197,7 @@ Uomo, 24 anni, sciatore di fondo, controllo di routine 10 giorni dopo il rientro
 
 #### Interpretazione
 
-Hb elevata (beneficio atteso del soggiorno in altura, ancora presente nella finestra post-rientro), reticolociti ridotti (fisiologico calo da feedback negativo per riduzione dello stimolo ipossico) e ferritina lievemente ridotta rispetto al target pre-partenza, verosimilmente per il maggior consumo di ferro durante l'eritropoiesi accelerata in quota (vedi [[sezione-8-preparazione-e-risposta-all-altura]]).
+Hb elevata (beneficio atteso del soggiorno in altura, ancora presente nella finestra post-rientro), reticolociti ridotti (fisiologico calo da feedback negativo per riduzione dello stimolo ipossico) e ferritina lievemente ridotta rispetto al target pre-partenza, verosimilmente per il maggior consumo di ferro durante l'eritropoiesi accelerata in quota (vedi [Altura](08_altura.md)).
 
 #### Decisione pratica
 
@@ -206,7 +206,3 @@ Nessuna azione urgente; il pattern è atteso nella fase post-altura. Si raccoman
 #### Errori da evitare
 
 Interpretare i reticolociti bassi come segno di soppressione midollare patologica, senza considerare il contesto fisiologico del rientro da altura.
-
----
-
-*Prosegui con [[sezione-13-casi-pratici-infiammazione-danno-muscolare-e-funzione-d-organo]].*

@@ -1,4 +1,4 @@
-# Sezione 11 — Algoritmi decisionali
+# Algoritmi decisionali
 
 *Le flow chart di questa sezione sintetizzano i ragionamenti sviluppati nelle Sezioni 2-9 e non sostituiscono la lettura dei capitoli dedicati, richiamati in ciascun algoritmo. Sono strumenti di supporto rapido alla decisione, non protocolli diagnostici autosufficienti.*
 
@@ -8,7 +8,7 @@
 
 #### Ragionamento alla base dell'algoritmo
 
-Una ferritina bassa isolata richiede sempre di essere contestualizzata con lo stato infiammatorio (PCR) e con gli altri indicatori del quadro marziale, prima di essere considerata conclusiva. Vedi [[sezione-3-biomarcatori-metabolismo-del-ferro]] per il dettaglio completo.
+Una ferritina bassa isolata richiede sempre di essere contestualizzata con lo stato infiammatorio (PCR) e con gli altri indicatori del quadro marziale, prima di essere considerata conclusiva. [Ferro](03_biomarcatori_ferro.md) per il dettaglio completo.
 
 ```mermaid
 flowchart TD
@@ -27,7 +27,7 @@ flowchart TD
 
 #### Ragionamento alla base dell'algoritmo
 
-La PCR elevata è il primo elemento da valutare prima di interpretare una ferritina normale o elevata, poiché la ferritina è una proteina di fase acuta positiva. Vedi [[sezione-4-biomarcatori-infiammazione-e-danno-muscolare]] e [[sezione-3-biomarcatori-metabolismo-del-ferro]].
+La PCR elevata è il primo elemento da valutare prima di interpretare una ferritina normale o elevata, poiché la ferritina è una proteina di fase acuta positiva. Vedi [Infiammazione e danno muscolare](04_biomarcatori_infiammazione_danno_muscolare.md) e [Ferro](03_biomarcatori_ferro.md).
 
 ```mermaid
 flowchart TD
@@ -48,7 +48,7 @@ flowchart TD
 
 #### Ragionamento alla base dell'algoritmo
 
-L'elemento chiave è sempre il confronto con il baseline individuale e la coerenza con il tipo di allenamento svolto nelle 24-72 ore precedenti. Vedi [[sezione-4-biomarcatori-infiammazione-e-danno-muscolare]].
+L'elemento chiave è sempre il confronto con il baseline individuale e la coerenza con il tipo di allenamento svolto nelle 24-72 ore precedenti. Vedi [Infiammazione e danno muscolare](04_biomarcatori_infiammazione_danno_muscolare.md).
 
 ```mermaid
 flowchart TD
@@ -67,7 +67,7 @@ flowchart TD
 
 #### Ragionamento alla base dell'algoritmo
 
-La distinzione principale è tra pseudo-anemia da espansione volemica (adattamento atteso nell'endurance) e anemia vera, da caratterizzare poi per tipo (rigenerativa vs non rigenerativa, microcitica vs normo/macrocitica). Vedi [[sezione-2-biomarcatori-emocromo]] e [[sezione-3-biomarcatori-metabolismo-del-ferro]].
+La distinzione principale è tra pseudo-anemia da espansione volemica (adattamento atteso nell'endurance) e anemia vera, da caratterizzare poi per tipo (rigenerativa vs non rigenerativa, microcitica vs normo/macrocitica). Vedi [Emocromo](02_biomarcatori_emocromo.md) e [Ferro](03_biomarcatori_ferro.md).
 
 ```mermaid
 flowchart TD
@@ -88,7 +88,7 @@ flowchart TD
 
 #### Ragionamento alla base dell'algoritmo
 
-Prima di un blocco di allenamento in altitudine, lo stato marziale e infiammatorio dell'atleta condiziona l'efficacia dell'adattamento eritropoietico atteso. Vedi [[sezione-8-preparazione-e-risposta-all-altura]] per il dettaglio completo.
+Prima di un blocco di allenamento in altitudine, lo stato marziale e infiammatorio dell'atleta condiziona l'efficacia dell'adattamento eritropoietico atteso. Vedi [Altura](08_altura.md) per il dettaglio completo.
 
 ```mermaid
 flowchart TD
@@ -108,9 +108,5 @@ flowchart TD
 ### Come usare questi algoritmi nella pratica
 
 - Ogni algoritmo è un punto di partenza per orientare il ragionamento, non un sostituto della valutazione clinica completa né della consultazione con il medico dello sport nei casi dubbi o sintomatici.
-- Il criterio del trend nel tempo e della coerenza tra parametri, discusso in [[sezione-1-fondamenti-di-interpretazione]], resta sempre prioritario rispetto alla lettura isolata di un singolo nodo decisionale.
+- Il criterio del trend nel tempo e della coerenza tra parametri, discusso in [Fondamenti Interpretazione](01_fondamenti_interpretazione.md), resta sempre prioritario rispetto alla lettura isolata di un singolo nodo decisionale.
 - La presenza di sintomi clinici significativi deve sempre portare a una valutazione medica, indipendentemente dal percorso indicato dall'algoritmo.
-
----
-
-*Prosegui con [[sezione-12-casi-pratici-emocromo-e-metabolismo-del-ferro]] per i casi pratici commentati, che applicano questi algoritmi a scenari realistici.*

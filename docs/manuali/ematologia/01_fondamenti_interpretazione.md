@@ -1,6 +1,6 @@
-# Sezione 1 — Fondamenti di interpretazione
+# Fondamenti di interpretazione
 
-*Vedi [[manuale-operativo-interpretazione-degli-esami-ematici-nello-sportivo]] per scopo, destinatari e metodo generale del manuale.*
+*Vedi [Introduzione](00_introduzione.md) per scopo, destinatari e metodo generale del manuale.*
 
 ---
 
@@ -206,7 +206,3 @@ Lo staff tecnico non sostituisce il medico nella diagnosi, ma ha un ruolo insost
 - La presenza o assenza di sintomi clinici è un elemento centrale nella distinzione.
 - Il compito dello staff tecnico è fornire contesto, non sostituirsi alla diagnosi medica.
 - In caso di dubbio, la soglia di invio al medico dello sport deve essere bassa: è sempre preferibile un controllo in più che un ritardo diagnostico.
-
----
-
-*Prosegui con [[sezione-2-biomarcatori-emocromo]].*

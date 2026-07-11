@@ -1,6 +1,6 @@
-# Sezione 4 — Biomarcatori: Infiammazione e Danno muscolare
+# Biomarcatori: Infiammazione e Danno muscolare
 
-*Vedi [[manuale-operativo-interpretazione-degli-esami-ematici-nello-sportivo]] per il metodo generale e [[sezione-1-fondamenti-di-interpretazione]] per i principi di lettura. Nota: AST e ALT sono trattate qui in chiave di danno muscolare e riprese in [[sezione-5-biomarcatori-funzione-renale-ed-epatica]] in chiave epatica — la stessa alterazione può avere origine muscolare, epatica, o entrambe, e la distinzione è discussa in questo capitolo.*
+*Vedi [Introduzione](00_introduzione.md) per il metodo generale e [Fondamenti Interpretazione](01_fondamenti_interpretazione.md) per i principi di lettura. Nota: AST e ALT sono trattate qui in chiave di danno muscolare e riprese in [Funzione renale ed epatica](05_biomarcatori_funzione_organo.md) in chiave epatica — la stessa alterazione può avere origine muscolare, epatica, o entrambe, e la distinzione è discussa in questo capitolo.*
 
 ---
 
@@ -304,7 +304,3 @@ Prima di inviare un atleta ad accertamenti epatologici per transaminasi elevate,
 - Un rialzo post-esercizio eccentrico, con CK concomitante elevata, è verosimilmente di origine muscolare, non epatica.
 - Il rapporto AST/ALT e la CK concomitante sono gli elementi chiave per la diagnosi differenziale.
 - Evitare accertamenti epatologici inutili è una delle applicazioni pratiche più rilevanti di questo capitolo per lo staff tecnico.
-
----
-
-*Prosegui con [[sezione-5-biomarcatori-funzione-renale-ed-epatica]] per funzione renale ed epatica.*

@@ -1,6 +1,6 @@
-# Sezione 7 — Biomarcatori: Metabolismo energetico e Ormoni
+# Biomarcatori: Metabolismo energetico e Ormoni
 
-*Vedi [[manuale-operativo-interpretazione-degli-esami-ematici-nello-sportivo]] per il metodo generale e [[sezione-1-fondamenti-di-interpretazione]] per i principi di lettura.*
+*Vedi [Introduzione](00_introduzione.md) per il metodo generale e [Fondamenti Interpretazione](01_fondamenti_interpretazione.md) per i principi di lettura.*
 
 ---
 
@@ -356,7 +356,3 @@ In atlete/atleti con sospetta bassa disponibilità energetica, un pattern di FT3
 - La sindrome del basso T3 da bassa disponibilità energetica è un adattamento funzionale, non una patologia tiroidea primaria.
 - La distinzione tra le due condizioni è cruciale per evitare un trattamento ormonale inappropriato.
 - La valutazione della disponibilità energetica è sempre indicata quando questo pattern viene riscontrato.
-
----
-
-*Con questa sezione si conclude la Parte 2 — Biomarcatori. Prosegui con [[sezione-8-preparazione-e-risposta-all-altura]] per la Parte 3 — Applicazioni pratiche.*

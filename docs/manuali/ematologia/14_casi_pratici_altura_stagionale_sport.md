@@ -1,6 +1,6 @@
-# Sezione 14 — Casi pratici: Altura, monitoraggio stagionale e sport-specifici
+# Casi pratici: Altura, monitoraggio stagionale e sport-specifici
 
-*Ogni caso applica i principi delle Sezioni 6, 7, 8, 9, 10 e 11. Vedi i capitoli richiamati per l'approfondimento teorico completo.*
+*Ogni caso applica i principi delle Sezioni precedenti. Vedi i capitoli richiamati per l'approfondimento teorico completo.*
 
 ---
 
@@ -21,7 +21,7 @@ Donna, 23 anni, mezzofondista di livello nazionale, partenza per un blocco di al
 
 #### Interpretazione
 
-Ferritina sotto il target pratico pre-altura (>40-50 ng/mL), TSAT ridotto, PCR normale: stato marziale insufficiente a sostenere adeguatamente l'eritropoiesi indotta dalla quota (vedi [[sezione-8-preparazione-e-risposta-all-altura]]).
+Ferritina sotto il target pratico pre-altura (>40-50 ng/mL), TSAT ridotto, PCR normale: stato marziale insufficiente a sostenere adeguatamente l'eritropoiesi indotta dalla quota (vedi [Altura](08_altura.md)).
 
 #### Decisione pratica
 
@@ -49,7 +49,7 @@ Uomo, 26 anni, sciatore di fondo, quarto giorno di un blocco di altura a 2400 m,
 
 #### Interpretazione
 
-Risposta reticolocitaria inferiore a quanto atteso per lo stimolo ipossico applicato, in presenza di PCR elevata: il pattern suggerisce che uno stato infiammatorio concomitante (possibile carico allenante eccessivo nei primi giorni di quota, o infezione intercorrente) stia inibendo l'eritropoiesi, verosimilmente tramite l'aumento dell'epcidina (vedi [[sezione-8-preparazione-e-risposta-all-altura]] e [[sezione-3-biomarcatori-metabolismo-del-ferro]]).
+Risposta reticolocitaria inferiore a quanto atteso per lo stimolo ipossico applicato, in presenza di PCR elevata: il pattern suggerisce che uno stato infiammatorio concomitante (possibile carico allenante eccessivo nei primi giorni di quota, o infezione intercorrente) stia inibendo l'eritropoiesi, verosimilmente tramite l'aumento dell'epcidina (vedi [Altura](08_altura.md) e [[sezione-3-biomarcatori-metabolismo-del-ferro]]).
 
 #### Decisione pratica
 
@@ -77,7 +77,7 @@ Uomo, 24 anni, lottatore, 36 ore prima della pesata ufficiale, in fase di restri
 
 #### Interpretazione
 
-Sodio elevato (disidratazione ipertonica), potassio ridotto e creatinina elevata: quadro coerente con disidratazione significativa da restrizione idrica acuta, con sintomo clinico associato (stordimento) che richiede attenzione immediata, indipendentemente dalla vicinanza alla pesata (vedi [[sezione-6-biomarcatori-vitamine-micronutrienti-ed-elettroliti]] e [[sezione-10-differenze-tra-sport]], capitolo sport di categoria di peso).
+Sodio elevato (disidratazione ipertonica), potassio ridotto e creatinina elevata: quadro coerente con disidratazione significativa da restrizione idrica acuta, con sintomo clinico associato (stordimento) che richiede attenzione immediata, indipendentemente dalla vicinanza alla pesata (vedi [Vitamine, micronutrienti ed elettroliti](06_biomarcatori_micronutrienti_elettroliti.md) e [Differenze tra sport](10_sport_differenti.md), capitolo sport di categoria di peso).
 
 #### Decisione pratica
 
@@ -106,7 +106,7 @@ Donna, 20 anni, calciatrice professionista, amenorrea secondaria da 5 mesi, calo
 
 #### Interpretazione
 
-TSH normale-basso con FT3 ai limiti bassi e FT4 normale: pattern coerente con adattamento energetico-conservativo da bassa disponibilità energetica cronica (sindrome da T3 bassa), non con ipotiroidismo primario patologico (che presenterebbe tipicamente TSH elevato). Il calcio normale non esclude un impatto sulla salute ossea, che richiede valutazione specifica (vedi [[sezione-7-biomarcatori-metabolismo-energetico-e-ormoni]], capitolo funzione tiroidea).
+TSH normale-basso con FT3 ai limiti bassi e FT4 normale: pattern coerente con adattamento energetico-conservativo da bassa disponibilità energetica cronica (sindrome da T3 bassa), non con ipotiroidismo primario patologico (che presenterebbe tipicamente TSH elevato). Il calcio normale non esclude un impatto sulla salute ossea, che richiede valutazione specifica (vedi [Metabolismo e ormoni](07_biomarcatori_metabolico_ormonale.md), capitolo funzione tiroidea).
 
 #### Decisione pratica
 
@@ -134,7 +134,7 @@ Uomo, 28 anni, ciclista professionista, controlli trimestrali nell'ambito del pr
 
 #### Interpretazione
 
-Pattern stabile e coerente nel tempo, senza variazioni significative rispetto al baseline individuale: nessun segnale di anomalia. Questo caso illustra l'applicazione pratica del concetto di baseline individuale e di Reference Change Value discusso in [[sezione-1-fondamenti-di-interpretazione]]: la stabilità del trend, più che il confronto con un range di popolazione, è l'elemento centrale della valutazione in un programma di monitoraggio della salute a lungo termine.
+Pattern stabile e coerente nel tempo, senza variazioni significative rispetto al baseline individuale: nessun segnale di anomalia. Questo caso illustra l'applicazione pratica del concetto di baseline individuale e di Reference Change Value discusso in [Fondamenti Interpretazione](01_fondamenti_interpretazione.md): la stabilità del trend, più che il confronto con un range di popolazione, è l'elemento centrale della valutazione in un programma di monitoraggio della salute a lungo termine.
 
 #### Decisione pratica
 
@@ -160,7 +160,7 @@ Uomo, 17 anni, nuotatore agonista, allenamento quasi esclusivamente indoor, cont
 
 #### Interpretazione
 
-Valore in carenza, ma contestualizzabile con la stagione (fine inverno) e con la natura indoor dello sport praticato, entrambi fattori di rischio noti per la carenza di vitamina D (vedi [[sezione-6-biomarcatori-vitamine-micronutrienti-ed-elettroliti]], capitolo vitamina D).
+Valore in carenza, ma contestualizzabile con la stagione (fine inverno) e con la natura indoor dello sport praticato, entrambi fattori di rischio noti per la carenza di vitamina D (vedi [Vitamine, micronutrienti ed elettroliti](06_biomarcatori_micronutrienti_elettroliti.md), capitolo vitamina D).
 
 #### Decisione pratica
 
@@ -188,7 +188,7 @@ Uomo, 34 anni, triatleta age-group di alto livello, volume di allenamento aerobi
 
 #### Interpretazione
 
-LDL marcatamente elevato nonostante un profilo HDL e trigliceridi favorevoli tipici dell'endurance, in un contesto di storia familiare di evento cardiovascolare precoce: quadro discordante rispetto al beneficio atteso dall'attività fisica cronica, che suggerisce una possibile componente genetica (es. ipercolesterolemia familiare), indipendente dal livello di allenamento e performance (vedi [[sezione-7-biomarcatori-metabolismo-energetico-e-ormoni]], capitolo profilo lipidico).
+LDL marcatamente elevato nonostante un profilo HDL e trigliceridi favorevoli tipici dell'endurance, in un contesto di storia familiare di evento cardiovascolare precoce: quadro discordante rispetto al beneficio atteso dall'attività fisica cronica, che suggerisce una possibile componente genetica (es. ipercolesterolemia familiare), indipendente dal livello di allenamento e performance (vedi [Metabolismo e ormoni](07_biomarcatori_metabolico_ormonale.md), capitolo profilo lipidico).
 
 #### Decisione pratica
 
@@ -197,7 +197,3 @@ Invio al medico per valutazione del rischio cardiovascolare globale, considerand
 #### Errori da evitare
 
 Assumere che l'elevato volume di allenamento aerobico protegga automaticamente questo atleta dal rischio cardiovascolare, ignorando un profilo lipidico sfavorevole con una chiara componente di rischio genetico-familiare.
-
----
-
-*Con questo file si conclude la Parte 3 — Applicazioni pratiche e l'intero manuale operativo. Il manuale completo è composto dai 15 file, da [[manuale-operativo-interpretazione-degli-esami-ematici-nello-sportivo]] a [[sezione-14-casi-pratici-altura-monitoraggio-stagionale-e-sport-specifici]], collegati e consultabili sia in sequenza sia come riferimento rapido indipendente per sezione.*

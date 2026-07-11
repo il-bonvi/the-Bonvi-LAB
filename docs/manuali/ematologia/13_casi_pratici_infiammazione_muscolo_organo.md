@@ -1,6 +1,6 @@
-# Sezione 13 — Casi pratici: Infiammazione, danno muscolare e funzione d'organo
+# Casi pratici: Infiammazione, danno muscolare e funzione d'organo
 
-*Ogni caso applica i principi delle Sezioni 4, 5 e 11. Vedi i capitoli richiamati per l'approfondimento teorico completo.*
+*Ogni caso applica i principi delle Sezioni precedenti. Vedi i capitoli richiamati per l'approfondimento teorico completo.*
 
 ---
 
@@ -20,7 +20,7 @@ Uomo, 22 anni, centrocampista, terzo giorno di pre-season dopo 5 settimane di st
 
 #### Interpretazione
 
-Rialzo marcato ma coerente con la reintroduzione di uno stimolo eccentrico intenso dopo un periodo di stop, in un atleta asintomatico salvo indolenzimento atteso: quadro tipico di danno muscolare da esercizio non abituale (vedi [[sezione-4-biomarcatori-infiammazione-e-danno-muscolare]], capitolo CK).
+Rialzo marcato ma coerente con la reintroduzione di uno stimolo eccentrico intenso dopo un periodo di stop, in un atleta asintomatico salvo indolenzimento atteso: quadro tipico di danno muscolare da esercizio non abituale (vedi [Infiammazione e danno muscolare](04_biomarcatori_infiammazione_danno_muscolare.md), capitolo CK).
 
 #### Decisione pratica
 
@@ -49,7 +49,7 @@ Uomo, 33 anni, powerlifter, controllo di routine dopo un blocco di forza massima
 
 #### Interpretazione
 
-AST sproporzionatamente elevata rispetto ad ALT (che è normale), in presenza di CK marcatamente elevata e GGT normale: quadro fortemente indicativo di origine muscolare del rialzo di AST, non epatica (vedi [[sezione-4-biomarcatori-infiammazione-e-danno-muscolare]] e [[sezione-5-biomarcatori-funzione-renale-ed-epatica]]).
+AST sproporzionatamente elevata rispetto ad ALT (che è normale), in presenza di CK marcatamente elevata e GGT normale: quadro fortemente indicativo di origine muscolare del rialzo di AST, non epatica (vedi [Infiammazione e danno muscolare](04_biomarcatori_infiammazione_danno_muscolare.md) e [Funzione renale ed epatica](05_biomarcatori_funzione_organo.md)).
 
 #### Decisione pratica
 
@@ -77,7 +77,7 @@ Uomo, 26 anni, terza linea, controllo di routine 18 ore dopo una partita fisicam
 
 #### Interpretazione
 
-PCR e leucociti elevati, coerenti con il timing post-partita e con la CK concomitante elevata: risposta infiammatoria acuta attesa dopo uno sforzo fisico di contatto ad alta intensità (vedi [[sezione-4-biomarcatori-infiammazione-e-danno-muscolare]], capitolo PCR).
+PCR e leucociti elevati, coerenti con il timing post-partita e con la CK concomitante elevata: risposta infiammatoria acuta attesa dopo uno sforzo fisico di contatto ad alta intensità (vedi [Infiammazione e danno muscolare](04_biomarcatori_infiammazione_danno_muscolare.md), capitolo PCR).
 
 #### Decisione pratica
 
@@ -106,7 +106,7 @@ Uomo, 30 anni, bodybuilder natural, massa muscolare molto sviluppata, controllo 
 
 #### Interpretazione
 
-Creatinina elevata con eGFR calcolato ridotto, ma in un contesto di massa muscolare molto sviluppata, assenza di proteinuria, pressione normale e nessun sintomo: quadro verosimilmente legato a una sovrastima della creatinina rispetto alla reale funzione renale, per le limitazioni delle formule di stima dell'eGFR in soggetti con massa muscolare estrema (vedi [[sezione-5-biomarcatori-funzione-renale-ed-epatica]], capitolo creatinina/eGFR).
+Creatinina elevata con eGFR calcolato ridotto, ma in un contesto di massa muscolare molto sviluppata, assenza di proteinuria, pressione normale e nessun sintomo: quadro verosimilmente legato a una sovrastima della creatinina rispetto alla reale funzione renale, per le limitazioni delle formule di stima dell'eGFR in soggetti con massa muscolare estrema (vedi [Funzione renale ed epatica](05_biomarcatori_funzione_organo.md), capitolo creatinina/eGFR).
 
 #### Decisione pratica
 
@@ -133,7 +133,7 @@ Uomo, 38 anni, maratoneta amatoriale di alto livello, storia di un episodio di c
 
 #### Interpretazione
 
-Acido urico elevato in un soggetto con storia di calcolosi e allenamento frequente in condizioni di caldo (rischio di disidratazione cronica ricorrente): quadro che, in questo contesto specifico, merita attenzione per il rischio di recidiva di calcolosi (vedi [[sezione-5-biomarcatori-funzione-renale-ed-epatica]], capitolo acido urico).
+Acido urico elevato in un soggetto con storia di calcolosi e allenamento frequente in condizioni di caldo (rischio di disidratazione cronica ricorrente): quadro che, in questo contesto specifico, merita attenzione per il rischio di recidiva di calcolosi (vedi [Funzione renale ed epatica](05_biomarcatori_funzione_organo.md), capitolo acido urico).
 
 #### Decisione pratica
 
@@ -162,7 +162,7 @@ Uomo, 27 anni, ciclista, controllo di routine, transaminasi lievemente elevate r
 
 #### Interpretazione
 
-Transaminasi elevate (ALT prevalente su AST) con GGT marcatamente elevata e CK normale: quadro che esclude l'origine muscolare e orienta verso una causa epatobiliare, possibilmente legata a consumo di alcol o a un integratore epatotossico (vedi [[sezione-5-biomarcatori-funzione-renale-ed-epatica]], capitolo GGT).
+Transaminasi elevate (ALT prevalente su AST) con GGT marcatamente elevata e CK normale: quadro che esclude l'origine muscolare e orienta verso una causa epatobiliare, possibilmente legata a consumo di alcol o a un integratore epatotossico (vedi [Funzione renale ed epatica](05_biomarcatori_funzione_organo.md), capitolo GGT).
 
 #### Decisione pratica
 
@@ -189,7 +189,7 @@ Donna, 21 anni, cestista, controllo di routine di inizio stagione, asintomatica,
 
 #### Interpretazione
 
-Piastrinopenia isolata, non spiegabile da alcun meccanismo fisiologico legato allo sport: a differenza di altri parametri, le piastrine ridotte non hanno un pattern di "adattamento sportivo" atteso e richiedono sempre approfondimento medico indipendentemente dal contesto (vedi [[sezione-2-biomarcatori-emocromo]], capitolo piastrine).
+Piastrinopenia isolata, non spiegabile da alcun meccanismo fisiologico legato allo sport: a differenza di altri parametri, le piastrine ridotte non hanno un pattern di "adattamento sportivo" atteso e richiedono sempre approfondimento medico indipendentemente dal contesto (vedi [Emocromo](02_biomarcatori_emocromo.md), capitolo piastrine).
 
 #### Decisione pratica
 
@@ -198,7 +198,3 @@ Invio immediato al medico per approfondimento diagnostico; non si tratta di un r
 #### Errori da evitare
 
 Attribuire genericamente una piastrinopenia all'attività sportiva intensa o rimandare l'approfondimento in attesa di un controllo successivo, quando il reperto richiede attenzione tempestiva.
-
----
-
-*Prosegui con [[sezione-14-casi-pratici-altura-monitoraggio-stagionale-e-sport-specifici]].*

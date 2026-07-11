@@ -1,6 +1,6 @@
-# Sezione 8 — Preparazione e risposta all'altura
+# Preparazione e risposta all'altura
 
-*Vedi [[manuale-operativo-interpretazione-degli-esami-ematici-nello-sportivo]] per il metodo generale, [[sezione-2-biomarcatori-emocromo]] per emocromo e reticolociti, [[sezione-3-biomarcatori-metabolismo-del-ferro]] per il metabolismo del ferro e [[sezione-4-biomarcatori-infiammazione-e-danno-muscolare]] per la PCR, tutti richiamati estesamente in questa sezione.*
+*Vedi [Introduzione](00_introduzione.md) per il metodo generale e [Fondamenti Interpretazione](01_fondamenti_interpretazione.md) per i principi di lettura. [Emocromo](02_biomarcatori_emocromo.md) per emocromo e reticolociti, [Ferro](03_biomarcatori_ferro.md) per il metabolismo del ferro e [Infiammazione e danno muscolare](04_biomarcatori_infiammazione_danno_muscolare.md) per la PCR, tutti richiamati estesamente in questa sezione.*
 
 ---
 
@@ -16,10 +16,10 @@ Un soggiorno in altitudine con riserve marziali insufficienti non produce l'adat
 
 | Parametro | Ruolo nel contesto altura | Vedi capitolo |
 |---|---|---|
-| Emoglobina (Hb) / Ematocrito (Ht) | Valutazione dell'adattamento cronico (aumento atteso dopo 2-3 settimane) | [[sezione-2-biomarcatori-emocromo]] |
-| Reticolociti | Indicatore precoce e diretto della risposta eritropoietica acuta (giorni) | [[sezione-2-biomarcatori-emocromo]] |
-| Ferritina, TSAT | Stato delle riserve marziali disponibili a sostenere l'eritropoiesi indotta | [[sezione-3-biomarcatori-metabolismo-del-ferro]] |
-| PCR | Esclusione di stati infiammatori che confondono la lettura della ferritina e possono compromettere la risposta all'altura | [[sezione-4-biomarcatori-infiammazione-e-danno-muscolare]] |
+| Emoglobina (Hb) / Ematocrito (Ht) | Valutazione dell'adattamento cronico (aumento atteso dopo 2-3 settimane) | [Emocromo](02_biomarcatori_emocromo.md) |
+| Reticolociti | Indicatore precoce e diretto della risposta eritropoietica acuta (giorni) | [Emocromo](02_biomarcatori_emocromo.md) |
+| Ferritina, TSAT | Stato delle riserve marziali disponibili a sostenere l'eritropoiesi indotta | [Ferro](03_biomarcatori_ferro.md) |
+| PCR | Esclusione di stati infiammatori che confondono la lettura della ferritina e possono compromettere la risposta all'altura | [Infiammazione e danno muscolare](04_biomarcatori_infiammazione_danno_muscolare.md) |
 
 ---
 
@@ -72,7 +72,7 @@ A differenza di Hb ed Ht, che riflettono un equilibrio cumulativo di settimane, 
 
 #### Come interpretare una risposta reticolocitaria inadeguata
 
-Se nei primi giorni di quota l'aumento atteso dei reticolociti non si verifica, o è marcatamente inferiore a quanto atteso per lo stimolo ipossico applicato (in base a quota e durata), questo è un segnale precoce che merita attenzione: le cause più probabili sono uno stato marziale insufficiente all'ingresso in quota o uno stato infiammatorio concomitante che inibisce l'eritropoiesi (tramite l'aumento dell'epcidina, vedi [[sezione-3-biomarcatori-metabolismo-del-ferro]]).
+Se nei primi giorni di quota l'aumento atteso dei reticolociti non si verifica, o è marcatamente inferiore a quanto atteso per lo stimolo ipossico applicato (in base a quota e durata), questo è un segnale precoce che merita attenzione: le cause più probabili sono uno stato marziale insufficiente all'ingresso in quota o uno stato infiammatorio concomitante che inibisce l'eritropoiesi (tramite l'aumento dell'epcidina, vedi [Ferro](03_biomarcatori_ferro.md)).
 
 ---
 
@@ -140,7 +140,3 @@ I benefici ematologici dell'altura (massa eritrocitaria aumentata) si mantengono
 - L'aumento precoce di Hb/Ht nei primi giorni di quota può riflettere emoconcentrazione, non necessariamente adattamento reale.
 - Il beneficio ematologico dell'altura ha una finestra temporale limitata dopo il rientro, utile per la pianificazione competitiva.
 - Un controllo post-rientro dello stato marziale è buona pratica, data la maggiore richiesta di ferro durante il soggiorno.
-
----
-
-*Prosegui con [[sezione-9-monitoraggio-stagionale]] per i protocolli di monitoraggio nelle diverse fasi della stagione.*

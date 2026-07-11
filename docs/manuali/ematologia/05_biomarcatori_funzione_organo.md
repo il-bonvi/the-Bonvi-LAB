@@ -1,6 +1,6 @@
-# Sezione 5 — Biomarcatori: Funzione renale ed epatica
+# Biomarcatori: Funzione renale ed epatica
 
-*Vedi [[manuale-operativo-interpretazione-degli-esami-ematici-nello-sportivo]] per il metodo generale, [[sezione-1-fondamenti-di-interpretazione]] per i principi di lettura e [[sezione-4-biomarcatori-infiammazione-e-danno-muscolare]] per AST/ALT in chiave di danno muscolare, richiamate qui in chiave epatica.*
+*Vedi [Introduzione](00_introduzione.md) per il metodo generale e [Fondamenti Interpretazione](01_fondamenti_interpretazione.md) per i principi di lettura. Vedi [Infiammazione e danno muscolare](04_biomarcatori_infiammazione_danno_muscolare.md) per AST/ALT in chiave di danno muscolare, richiamate qui in chiave epatica.*
 
 ---
 
@@ -183,7 +183,7 @@ In atleti con storia di calcolosi renale o iperuricemia cronica, particolare att
 
 #### Cos'è
 
-Vedi anche [[sezione-4-biomarcatori-infiammazione-e-danno-muscolare]] per la trattazione in chiave di danno muscolare. In questo capitolo AST e ALT sono considerate come marcatori di danno epatocellulare, il loro uso clinico più tradizionale.
+Vedi anche [Infiammazione e danno muscolare](04_biomarcatori_infiammazione_danno_muscolare.md) per la trattazione in chiave di danno muscolare. In questo capitolo AST e ALT sono considerate come marcatori di danno epatocellulare, il loro uso clinico più tradizionale.
 
 #### Fisiologia
 
@@ -352,7 +352,3 @@ In un corridore di endurance con bilirubina indiretta lievemente elevata isolata
 - La distinzione tra bilirubina diretta e indiretta è essenziale per l'interpretazione.
 - La sindrome di Gilbert è una causa benigna e comune di iperbilirubinemia indiretta isolata, non richiede restrizioni sportive.
 - Un quadro emolitico va sospettato quando la bilirubina indiretta elevata si associa a LDH elevata, reticolocitosi e Hb ridotta.
-
----
-
-*Prosegui con [[sezione-6-biomarcatori-vitamine-micronutrienti-ed-elettroliti]] per vitamine, micronutrienti ed elettroliti.*

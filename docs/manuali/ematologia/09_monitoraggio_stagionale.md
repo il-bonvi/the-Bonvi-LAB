@@ -1,7 +1,4 @@
-# Sezione 9 — Monitoraggio stagionale
-
-*Vedi [[sezione-1-fondamenti-di-interpretazione]] per i principi generali di timing e variabilità, e le Sezioni 2-7 per il dettaglio dei singoli biomarcatori richiamati in questa sezione.*
-
+# Monitoraggio stagionale
 ---
 
 ### Perché il monitoraggio va pianificato per fase di stagione
@@ -26,7 +23,7 @@ Un pannello ematico ha significato diverso a seconda della fase di stagione in c
 
 #### Perché è la fase più importante del monitoraggio
 
-Come discusso in [[sezione-1-fondamenti-di-interpretazione]], il confronto più informativo per molti parametri (in particolare quelli ad alta variabilità biologica come ferritina, CK, cortisolo, testosterone) è con il baseline individuale dell'atleta, non con il range di popolazione generale. La pre-season, in condizioni di carico relativamente basso rispetto al periodo agonistico, è il momento ideale per stabilire questo riferimento.
+Come discusso in [Fondamenti Interpretazione](01_fondamenti_interpretazione.md), il confronto più informativo per molti parametri (in particolare quelli ad alta variabilità biologica come ferritina, CK, cortisolo, testosterone) è con il baseline individuale dell'atleta, non con il range di popolazione generale. La pre-season, in condizioni di carico relativamente basso rispetto al periodo agonistico, è il momento ideale per stabilire questo riferimento.
 
 #### Cosa includere nel pannello di pre-season
 
@@ -69,7 +66,7 @@ Non esiste una frequenza universalmente valida; la frequenza va calibrata sul ri
 
 #### La sfida interpretativa specifica
 
-Nei periodi di carico molto elevato (blocchi di volume, ritiri, doppie sedute), numerosi parametri (CK, PCR, leucociti, in parte anche ferritina come proteina di fase acuta) sono fisiologicamente elevati come risposta attesa allo stimolo allenante. La sfida in questa fase è distinguere una risposta adattativa attesa da un segnale di carico eccessivo rispetto alla capacità di recupero individuale, applicando i criteri discussi in [[sezione-1-fondamenti-di-interpretazione]] (andamento temporale, coerenza tra parametri, sintomatologia).
+Nei periodi di carico molto elevato (blocchi di volume, ritiri, doppie sedute), numerosi parametri (CK, PCR, leucociti, in parte anche ferritina come proteina di fase acuta) sono fisiologicamente elevati come risposta attesa allo stimolo allenante. La sfida in questa fase è distinguere una risposta adattativa attesa da un segnale di carico eccessivo rispetto alla capacità di recupero individuale, applicando i criteri discussi in [Fondamenti Interpretazione](01_fondamenti_interpretazione.md) (andamento temporale, coerenza tra parametri, sintomatologia).
 
 #### Pattern da monitorare con attenzione
 
@@ -114,7 +111,7 @@ Dopo una competizione, specialmente se di endurance prolungata o particolarmente
 
 - CK e LDH, per l'entità del danno muscolare indotto dalla gara;
 - PCR, per l'entità della risposta infiammatoria;
-- elettroliti (sodio in particolare), specialmente in eventi di ultra-endurance o condizioni climatiche estreme, per il rischio di iponatriemia o disidratazione severa (vedi [[sezione-6-biomarcatori-vitamine-micronutrienti-ed-elettroliti]]);
+- elettroliti (sodio in particolare), specialmente in eventi di ultra-endurance o condizioni climatiche estreme, per il rischio di iponatriemia o disidratazione severa (vedi [Vitamine, micronutrienti ed elettroliti](06_biomarcatori_micronutrienti_elettroliti.md));
 - funzione renale, in caso di sospetta rabdomiolisi severa.
 
 #### Timing del controllo
@@ -159,7 +156,3 @@ flowchart TD
 - Il controllo pre-gara va programmato con margine sufficiente per un eventuale intervento correttivo.
 - Il controllo post-gara ha timing diverso a seconda dell'obiettivo (esclusione di condizioni acute vs quantificazione del recupero).
 - Il dato ematico ha il massimo valore quando integrato con indicatori di carico e con indicatori soggettivi di recupero, mai utilizzato isolatamente.
-
----
-
-*Prosegui con [[sezione-10-differenze-tra-sport]] per le differenze di interpretazione tra discipline sportive.*

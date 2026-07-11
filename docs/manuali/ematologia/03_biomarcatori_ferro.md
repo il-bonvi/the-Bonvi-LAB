@@ -1,6 +1,6 @@
-# Sezione 3 — Biomarcatori: Metabolismo del ferro
+# Biomarcatori: Metabolismo del ferro
 
-*Vedi [[manuale-operativo-interpretazione-degli-esami-ematici-nello-sportivo]] per il metodo generale, [[sezione-1-fondamenti-di-interpretazione]] per i principi di lettura e [[sezione-2-biomarcatori-emocromo]] per l'emocromo.*
+*Vedi [Introduzione](00_introduzione.md) per il metodo generale e [Fondamenti Interpretazione](01_fondamenti_interpretazione.md) per i principi di lettura*
 
 ---
 
@@ -358,7 +358,3 @@ Sulla base del pattern circadiano dell'epcidina indotto dall'esercizio, un'indic
 - L'esercizio intenso la innalza transitoriamente tramite IL-6, riducendo l'assorbimento di ferro nelle ore successive.
 - È un meccanismo chiave alla base della sideropenia funzionale nell'atleta ad alto volume.
 - Il timing della supplementazione marziale rispetto all'allenamento ha una base fisiologica solida in questo meccanismo, anche se l'epcidina stessa non è ancora un test di routine clinica.
-
----
-
-*Prosegui con [[sezione-4-biomarcatori-infiammazione-e-danno-muscolare]] per infiammazione (PCR, VES) e danno muscolare (CK, LDH, transaminasi).*

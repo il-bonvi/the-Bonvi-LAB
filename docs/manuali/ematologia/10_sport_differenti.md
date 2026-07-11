@@ -1,7 +1,4 @@
-# Sezione 10 — Differenze tra sport
-
-*Vedi le Sezioni 2-7 per il dettaglio dei singoli biomarcatori richiamati in questa sezione.*
-
+# Differenze tra sport
 ---
 
 ### Perché il tipo di sport modifica l'interpretazione
@@ -22,7 +19,7 @@ Volume di allenamento aerobico elevato, elevato turnover energetico, frequente e
 
 | Parametro | Pattern tipico | Interpretazione |
 |---|---|---|
-| Hb/Ht | Spesso ai limiti bassi del range | Pseudo-anemia da espansione volemica (vedi [[sezione-1-fondamenti-di-interpretazione]]), da distinguere da anemia vera |
+| Hb/Ht | Spesso ai limiti bassi del range | Pseudo-anemia da espansione volemica (vedi [Fondamenti Interpretazione](01_fondamenti_interpretazione.md)), da distinguere da anemia vera |
 | Ferritina | Frequentemente ridotta, specialmente nelle donne | Alto rischio di deplezione marziale cronica, monitoraggio prioritario |
 | CK | Elevazioni ricorrenti dopo sedute lunghe/gare, specialmente con componente eccentrica (trail, maratona) | Attese, da monitorare per trend più che per valore singolo |
 | Bilirubina indiretta / LDH | Possibile lieve rialzo cronico | Da considerare "footstrike hemolysis" nei corridori di lunga distanza come possibile contributo |
@@ -48,7 +45,7 @@ Combinazione di componenti aerobiche e anaerobiche, carichi di allenamento e gar
 | CK | Elevazioni ricorrenti post-partita, con cinetica di recupero individuale variabile | Il trend individuale tra una partita e la successiva è più informativo del valore assoluto |
 | PCR/leucociti | Rialzi post-partita attesi | Da contestualizzare con il timing rispetto all'ultima partita |
 | Ferritina | Rischio marziale presente ma generalmente meno marcato che nell'endurance puro, salvo nelle atlete donne | Comunque da monitorare periodicamente |
-| Testosterone/cortisolo | Utile come indicatore di supporto nel monitoraggio del carico in calendari fitti (es. doppi impegni settimanali) | Da interpretare sempre in trend, con le cautele discusse in [[sezione-7-biomarcatori-metabolismo-energetico-e-ormoni]] |
+| Testosterone/cortisolo | Utile come indicatore di supporto nel monitoraggio del carico in calendari fitti (es. doppi impegni settimanali) | Da interpretare sempre in trend, con le cautele discusse in [Metabolismo e ormoni](07_biomarcatori_metabolico_ormonale.md) |
 
 #### Priorità di monitoraggio pratiche
 
@@ -66,7 +63,7 @@ Elevata massa muscolare, allenamento con carichi elevati e frequente componente 
 
 | Parametro | Pattern tipico | Interpretazione |
 |---|---|---|
-| Creatinina/eGFR | Creatinina fisiologicamente più elevata per la massa muscolare, eGFR calcolato spesso sottostimato | Vedi [[sezione-5-biomarcatori-funzione-renale-ed-epatica]]: da contestualizzare sempre con la massa muscolare, non allarmarsi per un eGFR calcolato ai limiti bassi in assenza di altri segni |
+| Creatinina/eGFR | Creatinina fisiologicamente più elevata per la massa muscolare, eGFR calcolato spesso sottostimato | Vedi [Funzione renale ed epatica](05_biomarcatori_funzione_organo.md): da contestualizzare sempre con la massa muscolare, non allarmarsi per un eGFR calcolato ai limiti bassi in assenza di altri segni |
 | CK | Valori basali a riposo spesso più elevati della popolazione generale, con ampie elevazioni dopo sedute di forza intense/nuove | Il confronto con il baseline individuale è ancora più importante che in altre discipline |
 | Hb/Ht | Generalmente nella norma o ai limiti alti, meno soggetti a pseudo-anemia da espansione volemica rispetto all'endurance | — |
 | Urea | Possibile rialzo per elevato turnover proteico e dieta spesso iperproteica | Da contestualizzare con l'apporto dietetico |
@@ -90,7 +87,7 @@ Presenza frequente di pratiche di gestione del peso corporeo per il raggiungimen
 |---|---|---|
 | Elettroliti (sodio, potassio, cloro) | Alterazioni significative possibili nei giorni immediatamente precedenti la pesata, in caso di pratiche di disidratazione | Richiede particolare attenzione clinica, specialmente se combinato con recupero rapido pre-gara (rapid weight loss/regain) |
 | Creatinina/funzione renale | Possibile rialzo transitorio da disidratazione acuta | Da distinguere da una reale compromissione della funzione renale, con ricontrollo dopo reidratazione |
-| Cortisolo | Rialzo atteso in fase di restrizione acuta pre-pesata | Da contestualizzare con il timing rispetto alla pesata, dato il ruolo limitato del cortisolo isolato come marcatore (vedi [[sezione-7-biomarcatori-metabolismo-energetico-e-ormoni]]) |
+| Cortisolo | Rialzo atteso in fase di restrizione acuta pre-pesata | Da contestualizzare con il timing rispetto alla pesata, dato il ruolo limitato del cortisolo isolato come marcatore (vedi [Metabolismo e ormoni](07_biomarcatori_metabolico_ormonale.md)) |
 | Testosterone | Possibile riduzione nei periodi di restrizione calorica ricorrente/cronica | Rilevante soprattutto in atleti con pratiche di taglio del peso frequenti e ravvicinate nel tempo |
 | Profilo marziale | Rischio di deplezione se la restrizione calorica è cronica o ricorrente nel tempo | Da monitorare specialmente in atleti con storia di tagli di peso frequenti |
 
@@ -128,7 +125,3 @@ In questa categoria di sport, il monitoraggio ematico ha un ruolo di sicurezza p
 - Gli sport di forza richiedono una correzione interpretativa per creatinina/eGFR e CK basale, legata alla massa muscolare elevata.
 - Gli sport di squadra richiedono attenzione particolare al recupero tra impegni ravvicinati nel calendario.
 - Gli sport di categoria di peso comportano un rischio specifico e acuto di squilibri elettrolitici e disidratazione nel periodo pre-pesata, che richiede un'attenzione di sicurezza immediata oltre al monitoraggio di routine.
-
----
-
-*Prosegui con [[sezione-11-algoritmi-decisionali]] per le flow chart pratiche di supporto alla decisione.*

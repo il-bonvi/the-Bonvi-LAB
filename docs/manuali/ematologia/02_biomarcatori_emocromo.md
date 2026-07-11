@@ -1,6 +1,6 @@
-# Sezione 2 — Biomarcatori: Emocromo
+# Biomarcatori: Emocromo
 
-*Vedi [[manuale-operativo-interpretazione-degli-esami-ematici-nello-sportivo]] per il metodo generale e [[sezione-1-fondamenti-di-interpretazione]] per i principi di lettura di un pannello ematico.*
+*Vedi [Introduzione](00_introduzione.md) per il metodo generale e [Fondamenti Interpretazione](01_fondamenti_interpretazione.md) per i principi di lettura di un pannello ematico.*
 
 ---
 
@@ -548,7 +548,3 @@ Nel monitoraggio della preparazione all'altura, un aumento inadeguato dei retico
 - Sono lo strumento chiave per distinguere anemie rigenerative da non rigenerative.
 - Fondamentali nel monitoraggio della risposta eritropoietica in altura.
 - Una risposta reticolocitaria inadeguata in quota deve far sospettare uno stato marziale insufficiente.
-
----
-
-*Prosegui con [[sezione-3-biomarcatori-metabolismo-del-ferro]] per il metabolismo del ferro (ferritina, sideremia, transferrina, TIBC/UIBC, TSAT, recettore solubile della transferrina, epcidina).*

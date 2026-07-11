@@ -1,6 +1,6 @@
-# Sezione 6 — Biomarcatori: Vitamine, micronutrienti ed elettroliti
+# Biomarcatori: Vitamine, micronutrienti ed elettroliti
 
-*Vedi [[manuale-operativo-interpretazione-degli-esami-ematici-nello-sportivo]] per il metodo generale e [[sezione-1-fondamenti-di-interpretazione]] per i principi di lettura.*
+*Vedi [Introduzione](00_introduzione.md) per il metodo generale e [Fondamenti Interpretazione](01_fondamenti_interpretazione.md) per i principi di lettura.*
 
 ---
 
@@ -411,7 +411,3 @@ In atlete/atleti con sospetta bassa disponibilità energetica (RED-S), il calcio
 - Il fosforo è raramente alterato clinicamente nello sportivo sano.
 - Il cloro va sempre interpretato insieme al sodio per la valutazione di idratazione ed equilibrio acido-base.
 - La valutazione della salute ossea nell'atleta richiede strumenti specifici (densitometria), non il solo pannello elettrolitico.
-
----
-
-*Prosegui con [[sezione-7-biomarcatori-metabolismo-energetico-e-ormoni]] per metabolismo energetico e ormoni.*

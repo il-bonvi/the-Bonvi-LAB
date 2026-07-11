@@ -44,10 +44,37 @@ copyright = """
 # can be defined using TOML syntax.
 #
 # Read more: https://zensical.org/docs/setup/navigation/
-# nav = [
-#   { "Get started" = "index.md" },
-#   { "Markdown in 5min" = "markdown.md" },
-# ]
+nav = [
+  { "Home" = "index.md" },
+
+  { "Manuali" = [
+      { "Panoramica" = "manuali/index.md" },
+
+      { "Interpretazione degli esami ematologici" = [
+          { "Introduzione" = "manuali/ematologia/00_introduzione.md" },
+          { "Fondamenti Interpretazione" = "manuali/ematologia/01_fondamenti_interpretazione.md" },
+          { "Biomarcatori: Emocromo" = "manuali/ematologia/02_biomarcatori_emocromo.md" },
+          { "Biomarcatori: Ferro" = "manuali/ematologia/03_biomarcatori_ferro.md" },
+          { "Biomarcatori: Infiammazione e danno muscolare" = "manuali/ematologia/04_biomarcatori_infiammazione_danno_muscolare.md" },
+          { "Biomarcatori: Funzione renale ed epatica" = "manuali/ematologia/05_biomarcatori_funzione_organo.md" },
+          { "Biomarcatori: Vitamine, micronutrienti ed elettroliti" = "manuali/ematologia/06_biomarcatori_micronutrienti_elettroliti.md" },
+          { "Biomarcatori: Metabolismo e Ormoni" = "manuali/ematologia/07_biomarcatori_metabolico_ormonale.md" },
+          { "Altura" = "manuali/ematologia/08_altura.md" },
+          { "Monitoraggio stagionale" = "manuali/ematologia/09_monitoraggio_stagionale.md" },
+          { "Differenze tra sport" = "manuali/ematologia/10_sport_differenti.md" },
+          { "Algoritmi decisionali" = "manuali/ematologia/11_algoritmi_decisionali.md" },
+          { "Casi Pratici: Emocromo e Ferro" = "manuali/ematologia/12_casi_pratici_emocromo_ferro.md" },
+          { "Casi Pratici: Infiammazione, Danno Muscolare e Funzioni Organi" = "manuali/ematologia/13_casi_pratici_infiammazione_muscolo_organo.md" },
+          { "Casi Pratici: Altura, Monitoraggio Stagionale e Sport" = "manuali/ematologia/14_casi_pratici_altura_stagionale_sport.md" }
+
+          
+      ]}
+  ]},
+
+  { "Approfondimenti" = "approfondimenti/index.md" },
+  { "Casi studio" = "casi-studio/index.md" },
+  { "Allenamento" = "allenamento/index.md" }
+]
 
 # With the "extra_css" option you can add your own CSS styling to customize
 # your Zensical project according to your needs. You can add any number of
