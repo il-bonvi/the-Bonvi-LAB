@@ -1,0 +1,442 @@
+/* ==========================================================================
+   THE BONVI LAB - Premium Editorial Theme
+   ========================================================================== */
+
+
+/* ==========================================================================
+   COLOR SYSTEM
+   ========================================================================== */
+
+[data-md-color-scheme="default"] {
+
+  --md-primary-fg-color:        #2D6A4F;
+  --md-primary-fg-color--light: #40916C;
+  --md-primary-fg-color--dark:  #1B4332;
+  --md-accent-fg-color:         #52B788;
+
+  --lab-header-bg:              #2D6A4F;
+  --lab-header-text:            #FFFFFF;
+
+  --lab-title-h1:               #1B4332;
+  --lab-title-h2:               #2D6A4F;
+
+  --lab-card-bg:                #FFFFFF;
+  --lab-card-border:            #E5E7EB;
+
+  --lab-quote-bg:               #F4F7F5;
+
+  --lab-nav-text:               #4A5568;
+  --lab-nav-active-bg:          #E8F5E9;
+  --lab-nav-active-text:        #1B4332;
+
+  --lab-toc-active-text:        #2D6A4F;
+}
+
+
+[data-md-color-scheme="slate"] {
+
+  --md-primary-fg-color:        #2D6A4F;
+  --md-primary-fg-color--light: #40916C;
+  --md-primary-fg-color--dark:  #D8F3DC;
+  --md-accent-fg-color:         #52B788;
+
+  --lab-header-bg:              #101816;
+  --lab-header-text:            #E5E7EB;
+
+  --lab-title-h1:               #D8F3DC;
+  --lab-title-h2:               #B7E4C7;
+
+  --lab-card-bg:                #1E252B;
+  --lab-card-border:            #2D3748;
+
+  --lab-quote-bg:               #16221B;
+
+  --lab-nav-text:               #94A3B8;
+  --lab-nav-active-bg:          rgba(45,106,79,.20);
+  --lab-nav-active-text:        #74C69D;
+
+  --lab-toc-active-text:        #74C69D;
+}
+
+
+/* ==========================================================================
+   TYPOGRAPHY
+   ========================================================================== */
+
+
+.md-typeset {
+
+  font-family:
+    "Inter",
+    system-ui,
+    -apple-system,
+    sans-serif;
+
+  line-height: 1.75;
+}
+
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+
+  font-weight: 800;
+  letter-spacing: -0.03em;
+}
+
+
+.md-typeset h1 {
+
+  color: var(--lab-title-h1);
+
+  border-bottom:
+    2px solid var(--md-primary-fg-color--light);
+
+  padding-bottom: .4rem;
+
+  margin-top: 0;
+}
+
+
+.md-typeset h2 {
+
+  color: var(--lab-title-h2);
+
+  margin-top: 2rem;
+
+  border-bottom:
+    1px dashed var(--lab-card-border);
+
+  padding-bottom: .3rem;
+}
+
+
+
+/* ==========================================================================
+   EDITORIAL WIDTH
+   ========================================================================== */
+
+
+.md-grid {
+
+  max-width: 1400px;
+
+}
+
+
+.md-content {
+
+  max-width: 900px;
+
+}
+
+
+
+/* ==========================================================================
+   HEADER / BRAND
+   ========================================================================== */
+
+
+.md-header {
+
+  background-color:
+    var(--lab-header-bg)
+    !important;
+
+}
+
+
+.md-header__title {
+
+  font-weight: 800;
+
+  letter-spacing:
+    -0.04em;
+
+}
+
+
+.md-header__title,
+.md-header__button {
+
+  color:
+    var(--lab-header-text)
+    !important;
+
+}
+
+
+
+.md-tabs {
+
+  background-color:
+    var(--md-primary-fg-color--light)
+    !important;
+
+}
+
+
+[data-md-color-scheme="slate"] .md-tabs {
+
+  background-color:
+    var(--lab-header-bg)
+    !important;
+
+}
+
+
+
+.md-tabs__link {
+
+  font-weight:600;
+
+}
+
+
+
+/* ==========================================================================
+   LEFT NAVIGATION
+   ========================================================================== */
+
+
+.md-sidebar--primary .md-nav__link {
+
+  color:
+    var(--lab-nav-text)
+    !important;
+
+  font-size:.78rem;
+
+  font-weight:500;
+
+  border-radius:8px !important;
+
+  padding:.45rem .6rem !important;
+
+  margin:.1rem .3rem !important;
+
+  transition:.2s ease;
+
+}
+
+
+
+.md-sidebar--primary .md-nav__link:hover {
+
+  background-color:
+    rgba(0,0,0,.04)
+    !important;
+
+}
+
+
+
+[data-md-color-scheme="slate"]
+.md-sidebar--primary .md-nav__link:hover {
+
+  background-color:
+    rgba(255,255,255,.04)
+    !important;
+
+}
+
+
+
+.md-sidebar--primary
+.md-nav__link--active {
+
+  background-color:
+    var(--lab-nav-active-bg)
+    !important;
+
+  color:
+    var(--lab-nav-active-text)
+    !important;
+
+  font-weight:700 !important;
+
+}
+
+
+
+/* ==========================================================================
+   RIGHT TOC
+   ========================================================================== */
+
+
+.md-sidebar--secondary
+.md-nav__link--active {
+
+  color:
+    var(--lab-toc-active-text)
+    !important;
+
+  font-weight:700 !important;
+
+}
+
+
+
+/* ==========================================================================
+   LINKS
+   ========================================================================== */
+
+
+.md-typeset a {
+
+  text-decoration-thickness:2px;
+
+  text-underline-offset:3px;
+
+}
+
+
+
+[data-md-color-scheme="default"]
+.md-typeset a {
+
+  color:#2D6A4F;
+
+}
+
+
+
+[data-md-color-scheme="slate"]
+.md-typeset a {
+
+  color:#74C69D !important;
+
+}
+
+
+
+/* ==========================================================================
+   BLOCKQUOTE
+   ========================================================================== */
+
+
+.md-typeset blockquote {
+
+  border-left:
+    4px solid
+    var(--md-primary-fg-color--light);
+
+  background:
+    var(--lab-quote-bg);
+
+  padding:
+    .8rem 1.2rem;
+
+  border-radius:
+    0 8px 8px 0;
+
+}
+
+
+
+/* ==========================================================================
+   TABLES
+   ========================================================================== */
+
+
+.md-typeset table:not([class]) {
+
+  background:
+    var(--lab-card-bg);
+
+  border:
+    1px solid
+    var(--lab-card-border);
+
+}
+
+
+.md-typeset table:not([class]) th {
+
+  background:
+    #1B4332;
+
+  color:white;
+
+}
+
+
+
+[data-md-color-scheme="slate"]
+.md-typeset table:not([class]) th {
+
+  background:
+    #10251B;
+
+}
+
+
+
+/* ==========================================================================
+   REUSABLE CARDS
+   ========================================================================== */
+
+
+.lab-card {
+
+  background:
+    var(--lab-card-bg);
+
+  border:
+    1px solid
+    var(--lab-card-border);
+
+  border-radius:
+    12px;
+
+  padding:
+    1.5rem;
+
+  margin:
+    1rem 0;
+
+  transition:
+    transform .2s ease,
+    box-shadow .2s ease;
+
+}
+
+
+
+.lab-card:hover {
+
+  transform:
+    translateY(-4px);
+
+}
+
+
+
+/* ==========================================================================
+   SMALL BRAND DETAILS
+   ========================================================================== */
+
+
+.lab-tag {
+
+  display:inline-block;
+
+  padding:
+    .25rem .7rem;
+
+  border-radius:
+    20px;
+
+  background:
+    var(--lab-nav-active-bg);
+
+  color:
+    var(--lab-nav-active-text);
+
+  font-size:
+    .8rem;
+
+  font-weight:
+    700;
+
+}

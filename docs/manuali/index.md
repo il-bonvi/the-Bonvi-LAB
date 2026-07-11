@@ -1,14 +1,15 @@
+---
+hide:
+  - footer
+---
+
 # 📚 Manuali
 
 I manuali raccolgono argomenti trattati in modo organico e approfondito.
 
-A differenza degli approfondimenti, che affrontano un singolo tema, ogni manuale è strutturato in capitoli pensati per essere consultati sia in sequenza sia come riferimento.
-
 ---
 
-## Disponibili
-
-### 🩸 Interpretazione degli esami ematologici
+## 🩸 Interpretazione degli esami ematologici
 
 Una guida pratica all'interpretazione degli esami del sangue nello sportivo.
 
@@ -18,4 +19,4 @@ Una guida pratica all'interpretazione degli esami del sangue nello sportivo.
 
 ## In preparazione
 
-- 📈 Omni-PD – Omni-Domain Power-Duration Model
+- Prossimo

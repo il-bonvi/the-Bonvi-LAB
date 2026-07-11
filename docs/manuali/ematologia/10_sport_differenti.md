@@ -1,7 +1,6 @@
-# Differenze tra sport
----
+# Differenze tra discipline
 
-### Perché il tipo di sport modifica l'interpretazione
+### Perché la disciplina modifica l'interpretazione
 
 #### Il principio guida
 
