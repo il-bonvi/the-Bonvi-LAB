@@ -8,7 +8,7 @@
 
 #### L'errore del valore isolato
 
-L'errore interpretativo più comune, anche tra professionisti esperti, è guardare un singolo parametro fuori range e trarne una conclusione isolata ("la ferritina è bassa quindi l'atleta è sideropenico", "la CK è alta quindi c'è danno muscolare importante"). Un pannello ematico va letto come un sistema di relazioni tra parametri, non come un elenco di valori indipendenti.
+L'errore interpretativo più comune, è guardare un singolo parametro fuori range e trarne una conclusione isolata ("la ferritina è bassa quindi l'atleta è sideropenico", "la CK è alta quindi c'è danno muscolare importante"). Un pannello ematico va letto come un sistema di relazioni tra parametri, non come un elenco di valori indipendenti.
 
 #### Il metodo a tre livelli
 
