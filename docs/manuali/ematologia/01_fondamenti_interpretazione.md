@@ -4,7 +4,7 @@
 
 ---
 
-### Capitolo 1 — Come leggere un pannello ematico
+### Come leggere un pannello ematico
 
 #### L'errore del valore isolato
 
@@ -51,7 +51,7 @@ flowchart TD
 
 ---
 
-### Capitolo 2 — Variabilità biologica
+### Variabilità biologica
 
 #### Variabilità intra-individuale ed inter-individuale
 
@@ -88,7 +88,7 @@ Il Reference Change Value è la variazione minima tra due prelievi consecutivi d
 
 ---
 
-### Capitolo 3 — Effetti dell'allenamento sugli esami
+### Effetti dell'allenamento sugli esami
 
 #### Perché l'atleta non è il soggetto sedentario
 
@@ -116,7 +116,7 @@ Uno dei pattern più frequentemente frainteso: l'allenamento di endurance cronic
 
 ---
 
-### Capitolo 4 — Timing corretto del prelievo
+### Timing corretto del prelievo
 
 #### Perché il timing cambia il risultato
 
@@ -145,7 +145,7 @@ Per uno staff che segue l'atleta con controlli ripetuti nel tempo, la standardiz
 
 ---
 
-### Capitolo 5 — Errori pre-analitici comuni
+### Errori pre-analitici comuni
 
 #### Cosa sono gli errori pre-analitici
 
@@ -179,7 +179,7 @@ Sono errori che si verificano prima dell'analisi vera e propria del campione: ra
 
 ---
 
-### Capitolo 6 — Differenza tra valore patologico e adattamento sportivo
+### Differenza tra valore patologico e adattamento sportivo
 
 #### Il nodo interpretativo centrale
 

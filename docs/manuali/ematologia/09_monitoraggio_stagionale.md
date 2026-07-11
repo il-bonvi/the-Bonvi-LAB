@@ -1,5 +1,4 @@
 # Monitoraggio stagionale
----
 
 ### Perché il monitoraggio va pianificato per fase di stagione
 

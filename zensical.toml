@@ -48,7 +48,7 @@ nav = [
   { "Home" = "index.md" },
 
   { "Manuali" = [
-      { "Panoramica" = "manuali/index.md" },
+      { "Manuali" = "manuali/index.md" },
 
       { "Interpretazione degli esami ematologici" = [
           { "Introduzione" = "manuali/ematologia/00_introduzione.md" },
@@ -71,9 +71,7 @@ nav = [
       ]}
   ]},
 
-  { "Approfondimenti" = "approfondimenti/index.md" },
-  { "Casi studio" = "casi-studio/index.md" },
-  { "Allenamento" = "allenamento/index.md" }
+  { "n" = "allenamento/index.md" }
 ]
 
 # With the "extra_css" option you can add your own CSS styling to customize
@@ -143,7 +141,7 @@ features = [
     # Zensical includes an announcement bar. This feature allows users to
     # dismiss it when they have read the announcement.
     # https://zensical.org/docs/setup/header/#announcement-bar
-    "announce.dismiss",
+    # "announce.dismiss",
 
     # If you have a repository configured and turn on this feature, Zensical
     # will generate an edit button for the page. This works for common
@@ -347,6 +345,8 @@ toggle.name = "Switch to light mode"
 [project.markdown_extensions.md_in_html]
 [project.markdown_extensions.toc]
 permalink = true
+toc_depth = 3
+# nasconde header superiori a 3 livelli nella TOC
 [project.markdown_extensions.pymdownx.arithmatex]
 generic = true
 [project.markdown_extensions.pymdownx.betterem]
