@@ -48,7 +48,7 @@ nav = [
   { "Home" = "index.md" },
 
   { "Manuali" = [
-      { "Manuali" = "manuali/index.md" },
+      { "Manuali" = "manuali/index_manuali.md" },
 
       { "Interpretazione degli esami ematologici" = [
           { "Introduzione" = "manuali/ematologia/00_introduzione.md" },
@@ -72,11 +72,30 @@ nav = [
   ]},
 
   { "Approfondimenti" = [
-    { "Panoramica" = "approfondimenti/index.md" },
+    { "Panoramica" = "approfondimenti/index_approfondimenti.md" },
 
     { "Il motore del corpo" = "approfondimenti/motore.md" },
     { "VO₂ e VO₂max nel ciclismo" = "approfondimenti/vo2max.md" },
 ]},
+
+  { "UNI" = [
+      { "Corsi" = "UNI/index_UNI.md" },
+
+      { "Adattamenti Molecolari" = [
+          { "Introduzione: la cellula" = "UNI/adattamenti molecolari/01.1_introduzione_cellula.md" },
+          #{ "Introduzione: il codice della vita" = "UNI/adattamenti molecolari/01.2_codice_vita.md" },
+          #{ "Introduzione: traduzione del segnale" = "UNI/adattamenti molecolari/01.3_traduzione_segnale.md" },
+          #{{ "Risposta integrativa all'esercizio" = "UNI/adattamenti molecolari/02_risposta_integrativa_esercizio.md" },
+          #{{ "Risposta mitocondriale all'esercizio di endurance" = "UNI/adattamenti molecolari/03_risposta_mitocondriale_endurance.md" },
+          #{{ "Risposta ipertrofica" = "UNI/adattamenti molecolari/04_risposta_ipertrofica.md" },
+          #{{ "Introduzione all'ipossia" = "UNI/adattamenti molecolari/05_introduzione_ipossia.md" },
+          #{{ "Cervello ed esercizio" = "UNI/adattamenti molecolari/06_cervello_esercizio.md" },
+          #{{ "Ipossia molecolare" = "UNI/adattamenti molecolari/07_ipossia_molecolare.md" },
+          #{{ "Ipossia e attività fisica" = "UNI/adattamenti molecolari/08_ipossia_attività_fisica.md" },
+          #{{ "Ipossia e altitudine" = "UNI/adattamenti molecolari/09_ipossia_altitudine.md" },
+ 
+      ]}
+  ]},
 ]
 
 # With the "extra_css" option you can add your own CSS styling to customize
