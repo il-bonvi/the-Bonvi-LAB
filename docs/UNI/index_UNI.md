@@ -12,9 +12,10 @@ Qui sono raccolti gli appunti organizzati per insegnamento, con una struttura pe
 
 * [Introduzione: la cellula](adattamenti%20molecolari/01.1_introduzione_cellula.md)
 * [Introduzione: il codice della vita](adattamenti%20molecolari/01.2_codice_vita.md)
+* [Introduzione: traduzione del segnale](adattamenti%20molecolari/01.3_traduzione_segnale.md)
+
 
 in produzione
-* [Introduzione: traduzione del segnale](adattamenti%20molecolari/01.3_traduzione_segnale.md)
 * [Risposta integrativa all'esercizio](adattamenti%20molecolari/02_risposta_integrativa_esercizio.md)
 * [Risposta mitocondriale all'esercizio di endurance](adattamenti%20molecolari/03_risposta_mitocondriale_endurance.md)
 * [Risposta ipertrofica](adattamenti%20molecolari/04_risposta_ipertrofica.md)
