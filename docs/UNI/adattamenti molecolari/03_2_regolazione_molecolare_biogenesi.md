@@ -37,20 +37,42 @@ I topi con **knock-out costitutivo di TFAM** sono letali a livello embrionale, m
 
 ---
 
-## -> tutto da rifare L'asse PGC-1/NRF/TFAM
+## L'asse PGC-1/NRF/TFAM
+
+Questa sezione ruota attorno a **tre proteine** che lavorano in sequenza. Prima di vedere i dettagli, ecco chi sono e cosa fa ciascuna — una mappa da tenere a mente durante tutta la lettura:
+
+| Chi | Cosa fa | Dove agisce |
+| :--- | :--- | :--- |
+| **PGC-1** | Non si lega da sola al DNA: è un **coattivatore**, cioè si "aggancia" ad altri fattori di trascrizione già presenti sul DNA e li rende molto più efficaci — funziona come un megafono, non come un microfono. | Nucleo (ma nasce nel citoplasma) |
+| **NRF1 / NRF2** | Sono **fattori di trascrizione**: si legano direttamente al DNA nucleare e accendono i geni necessari per costruire i componenti del mitocondrio, incluso il gene di TFAM. | Nucleo |
+| **TFAM** | Legge il DNA mitocondriale e ne regola trascrizione e replicazione. Attenzione: il *gene* di TFAM si trova nel nucleo (come tutti gli altri geni nucleari), ma la *proteina* TFAM lavora dentro al mitocondrio, dove deve essere importata dopo essere stata costruita. | Mitocondrio (gene nucleare, proteina mitocondriale) |
+
+La **catena di eventi**, in ordine, è questa:
+
+1. L'esercizio fisico attiva **PGC-1**.
+2. PGC-1 si aggancia a **NRF1** e **NRF2** e ne potenzia l'attività.
+3. NRF1/2, così potenziati, accendono i geni nucleari necessari per il mitocondrio — **incluso il gene di TFAM**.
+4. L'mRNA di TFAM esce dal nucleo, viene tradotto in proteina nel citoplasma, e la proteina viene importata **dentro il mitocondrio**.
+5. Una volta dentro, **TFAM** legge il DNA mitocondriale e ne guida trascrizione e replicazione.
+
+> In sintesi: **PGC-1 → potenzia NRF1/2 → accendono il gene di TFAM → TFAM entra nel mitocondrio → il mitocondrio si "legge" e si replica.** Tutto il resto di questa sezione è un approfondimento di ciascun passaggio di questa catena.
+
+Vediamo ora i singoli passaggi più nel dettaglio, partendo da NRF1/2.
+
+### NRF1 e NRF2: i fattori di trascrizione a valle di PGC-1
 
 I **fattori respiratori nucleari** (**NRF1** e **NRF2**) sono proteine chiamate fattori di trascrizione: il loro compito è "leggere" il DNA nel nucleo e ordinare alla cellula di costruire i componenti necessari per i mitocondri. **NRF1/2** inducono:
 
 - la trascrizione dei geni, codificati sia dal nucleo che dal mitocondrio, che codificano per le proteine della catena respiratoria mitocondriale;
 - la trascrizione di **TFAM**, che a sua volta regola la trascrizione e la replicazione del DNA mitocondriale.
 
-Il percorso di TFAM è quindi il seguente: viene trascritto a partire dal DNA nucleare, l'mRNA esce dal nucleo, entra nel citoplasma, e da qui viene importato nel mitocondrio attraverso trasportatori specifici.
+Il percorso di TFAM è quindi il seguente (passaggio 4 della catena sopra): viene trascritto a partire dal DNA nucleare, l'mRNA esce dal nucleo, entra nel citoplasma, e da qui viene importato nel mitocondrio attraverso trasportatori specifici.
 
 ### PGC-1: il coattivatore chiave dell'asse
 
 **PGC-1** è un **modulatore trascrizionale** che stimola la biogenesi e la funzione mitocondriale cooperando con gli **NRF** (fattori respiratori nucleari).
 
-<!-- INSERISCI QUI IMMAGINE: schema che mostra PGC-1 attivare NRF-1 nel nucleo, il quale a sua volta induce la trascrizione di geni codificanti citocromo c, subunità COX VIc, hQP e la subunità γ dell'ATP sintasi, oltre a TFAM; queste proteine vengono importate nel mitocondrio (ETC, catena di trasporto degli elettroni), mentre TFAM regola direttamente il mtDNA (Chau 1992; Kelly 2004) — suggerimento: images/CAP/pgc1-nrf1-etc-tfam.png -->
+![alt text](images/3/pgc1_1.png)
 
 Quando ci si allena in modo costante (endurance), aumentano i livelli di PGC-1. Questo innesca una reazione a catena che porta alla creazione di più mitocondri: il muscolo diventa capace di produrre più ATP usando l'ossigeno, ritardando la fatica e migliorando la capacità di ossidare i grassi. Senza la cooperazione tra PGC-1 e NRF, l'allenamento non porterebbe ad alcun cambiamento strutturale nel muscolo — è proprio questo asse (**PGC-1/NRF**) a trasformare la fatica di una sessione di allenamento in un miglioramento della performance.
 
@@ -61,7 +83,7 @@ PGC-1 stimola la biogenesi mitocondriale attraverso un duplice meccanismo che co
 - induce la **trascrizione** degli mRNA di **NRF1** e **NRF2** (cioè fa produrre più NRF);
 - **co-attiva** la funzione trascrizionale di NRF-1 sul promotore del **TFAM**.
 
-<!-- INSERISCI QUI IMMAGINE: schema a "raggiera" con PGC-1 al centro, che si dirama verso: altri processi mitocondriali (punto interrogativo); PGC-1α/NRF-1, che regolano replicazione del mtDNA, trasporto degli elettroni e fosforilazione ossidativa; PGC-1α/ERRα (funzione non ancora chiarita, punto interrogativo); PGC-1α/RXR-PPAR, che regolano la beta-ossidazione mitocondriale degli acidi grassi e la termogenesi — suggerimento: images/CAP/pgc1-raggiera-nrf-err-ppar.png -->
+![alt text](images/3/pgc1_2.png)
 
 PGC-1 è quindi un modulatore chiave non solo della biogenesi mitocondriale in generale, ma anche del pathway metabolico specifico per l'**ossidazione degli acidi grassi** (approfondito nella Parte 3).
 
@@ -75,7 +97,7 @@ La famiglia PGC-1 è composta da diversi membri, codificati da geni differenti e
 - I topi con **knock-out muscolo-specifico di PGC-1α** mostrano un cambiamento opposto nelle fibre muscolari e una ridotta capacità di esercizio.
 - I topi con **sovraespressione muscolo-specifica di PGC-1β** mostrano un aumento dell'espressione genica mitocondriale, un cambiamento del tipo di fibra verso fibre di tipo IIX relativamente più ossidative, e una maggiore capacità di esercizio fisico.
 
-<!-- INSERISCI QUI IMMAGINE: istogramma che confronta i livelli di mRNA di PGC-1α e PGC-1β nel muscolo soleo, gastrocnemio ed estensore lungo delle dita (EDL), mostrando come PGC-1α sia molto più espresso nel soleo (muscolo ossidativo) mentre PGC-1β è relativamente più uniforme, con una tendenza maggiore nell'EDL (muscolo glicolitico) — suggerimento: images/CAP/pgc1-alpha-beta-tipi-muscolo.png -->
+**[📷 IMMAGINE QUI]**
 
 In sintesi: **PGC-1α** è più presente nel muscolo **ossidativo** (soleo), mentre **PGC-1β** è più presente nel muscolo **glicolitico** (estensore lungo delle dita).
 
@@ -83,11 +105,9 @@ In sintesi: **PGC-1α** è più presente nel muscolo **ossidativo** (soleo), men
 
 Una singola sessione (*single bout*) di esercizio di resistenza induce la trascrizione di PGC-1α.
 
-<!-- INSERISCI QUI IMMAGINE: istogramma che confronta i livelli di mRNA di PGC-1α (fold change) in ratti sedentari ed esercitati, con un aumento significativo (Koves 2005) — suggerimento: images/CAP/pgc1a-sedentari-esercitati.png -->
-
 La risposta trascrizionale di PGC-1α a una singola sessione di esercizio **dipende dallo stato di allenamento**: in un protocollo con soggetti sottoposti a 4 settimane di allenamento monolaterale della gamba (ginocchio-estensore) seguite da 3 ore di esercizio bilaterale, l'aumento di PGC-1α mRNA a 2 e 6 ore dall'esercizio è risultato significativamente più marcato nella gamba allenata rispetto a quella non allenata *(Pilegaard, 2003)*.
 
-<!-- INSERISCI QUI IMMAGINE: grafico che confronta l'induzione di PGC-1α mRNA (relativa al basale) tra soggetti non allenati e allenati, nei tempi pre-esercizio, subito dopo, e a 2, 6 e 24 ore dal recupero, con un picco più marcato nei soggetti allenati a 2 ore — suggerimento: images/CAP/pgc1a-allenati-vs-non-allenati.png -->
+![alt text](images/3/pgc1_3.png)
 
 Al momento è meno chiaro se anche gli altri membri della famiglia PGC-1 siano indotti dall'esercizio fisico.
 
@@ -100,7 +120,7 @@ L'aumento della proteina PGC-1α con l'allenamento dipende dal fatto che essa **
 3. la PGC-1 appena prodotta torna indietro e si lega a sua volta al MEF2, rendendolo molto più potente;
 4. insieme, i due fattori producono ancora più PGC-1.
 
-> Una volta che l'esercizio dà la spinta iniziale, PGC-1 collabora con i propri "operai" (MEF2) per produrre sempre più copie di se stessa — un **loop di feed-forward** che spiega perché l'allenamento di resistenza sia così efficace nel tempo: il corpo non si limita a rispondere allo stimolo, ma crea un sistema molecolare che amplifica il segnale per costruire muscoli sempre più ricchi di mitocondri. >
+> Una volta che l'esercizio dà la spinta iniziale, PGC-1 collabora con i propri "operai" (MEF2) per produrre sempre più copie di se stessa — un **loop di feed-forward** che spiega perché l'allenamento di resistenza sia così efficace nel tempo: il corpo non si limita a rispondere allo stimolo, ma crea un sistema molecolare che amplifica il segnale per costruire muscoli sempre più ricchi di mitocondri.
 
 ---
 
