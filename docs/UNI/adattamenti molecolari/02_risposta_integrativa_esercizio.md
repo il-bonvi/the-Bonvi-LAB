@@ -154,7 +154,9 @@ graph LR
 
 ## Cardiac Output
 
-### Sistema nervoso autonomo e controllo della funzione cardiaca
+### Controllo nervoso della funzione cardiaca
+
+#### Il centro di controllo cardiovascolare: input e risposta efferente
 
 ![alt text](images/2/SNA.png)
 
@@ -174,7 +176,7 @@ L'attivazione del sistema simpatico sostiene lo sforzo fisico modificando il com
 - **Sul cuore**: aumentano la frequenza cardiaca, la gittata cardiaca, la contrattilità del muscolo cardiaco e, di conseguenza, la pressione arteriosa complessiva.
 - **Sui vasi sanguigni**: si verifica una vasocostrizione che aumenta la resistenza arteriosa e riduce la capacitanza venosa, ottimizzando il ritorno del sangue verso il cuore e la sua ridistribuzione ai muscoli in attività.
 
-### Exercise pressor reflex: l'esempio del controllo della sudorazione
+#### Exercise pressor reflex: l'esempio del controllo della sudorazione
 
 Il sudore:
 
@@ -185,7 +187,7 @@ Il primo studio a dimostrare che la sudorazione può essere indotta da fattori n
 
 Questo dimostra che i recettori meccanici e metabolici presenti nel muscolo scheletrico sono coinvolti nel riflesso che controlla funzioni autonome come la sudorazione e il sistema cardiovascolare — è, in altre parole, l'*exercise pressor reflex* in azione anche al di fuori dell'ambito puramente cardiovascolare.
 
-### Controllo centrale nell'esercizio
+#### Controllo centrale nell'esercizio
 
 Le aree cerebrali che costituiscono il **centro di comando** regolano l'attività dei circuiti neuronali nel tronco encefalico che controllano:
 
@@ -194,20 +196,20 @@ Le aree cerebrali che costituiscono il **centro di comando** regolano l'attivit�
 - la pressione sanguigna;
 - altre funzioni controllate dal sistema nervoso autonomo.
 
-### Sistema nervoso autonomo
+#### Sistema nervoso autonomo: organizzazione simpatica e parasimpatica
 
 Il sistema nervoso autonomo è suddiviso, dal punto di vista anatomico e funzionale, in due rami principali: **simpatico** e **parasimpatico**.
 
 - Il sistema **parasimpatico** è organizzato secondo il sistema **cranio-sacrale**.
 - Il sistema **simpatico** è organizzato secondo il sistema **toraco-lombare**, con una catena di gangli situata lungo il midollo spinale.
 
-### Innervazione autonomica del cuore
+#### Innervazione autonomica del cuore
 
 ![alt text](images/2/cuore.png)
 
 Il **cuore** è innervato sia dal sistema **simpatico** sia da quello **parasimpatico**. Il **nodo seno-atriale** (pacemaker cardiaco) si trova sul lato destro del cuore ed è innervato principalmente dai fasci di neuroni autonomi di lato destro. Il **nodo atrio-ventricolare** si trova invece sul lato sinistro e riceve un apporto prevalentemente dal lato sinistro.
 
-### Caratteristiche neurali del sistema nervoso autonomo
+#### Caratteristiche neurali: sistema somatico vs autonomo
 
 ![alt text](images/2/schema_sna.png)
 
@@ -218,15 +220,13 @@ Il **cuore** è innervato sia dal sistema **simpatico** sia da quello **parasimp
 - *Simpatico*: il terminale assonico del **neurone pregangliare** rilascia **acetilcolina** al ganglio, mentre il terminale assonico del **neurone postgangliare** rilascia **noradrenalina**, che può avere effetto eccitatorio o inibitorio a seconda del recettore bersaglio. Fa eccezione la **midollare del surrene**: qui l'assone pregangliare rilascia acetilcolina direttamente sulle cellule ghiandolari (**epinefrina** e **norepinefrina**), che rilasciano noradrenalina/adrenalina direttamente nel circolo sanguigno, agendo quindi come un vero e proprio "terzo neurone" ormonale.
 - *Parasimpatico*: sia il **neurone pregangliare** sia il **neurone postgangliare** rilasciano **acetilcolina**.
 
-### Principali neurotrasmettitori del sistema nervoso autonomo
+#### Neurotrasmettitori e recettori del sistema nervoso autonomo
 
 I diversi neurotrasmettitori mediano effetti differenti sugli organi target:
 
 - **Acetilcolina** (sistema parasimpatico)
 - **Noradrenalina** (sistema simpatico)
 - **Epinefrina (adrenalina)**, rilasciata dalla midollare del surrene
-
-### Recettori di membrana
 
 I neurotrasmettitori rilasciati dalle terminazioni del sistema nervoso autonomo interagiscono con recettori specifici presenti sulla membrana della cellula bersaglio. Esempio: i **recettori noradrenalinici**.
 
@@ -241,11 +241,13 @@ Le diverse componenti del sistema nervoso autonomo partecipano quindi al manteni
 
 ![alt text](images/2/simp_para.png)
 
-### Risposta all'esercizio e omeostasi
+### Risposta cardiaca all'esercizio
+
+#### Risposta all'esercizio e omeostasi
 
 Quando l'omeostasi dell'organismo è messa a dura prova da fattori esterni o da sollecitazioni funzionali, è necessario un contributo diverso da parte dei vari componenti del sistema nervoso autonomo. Durante l'esercizio fisico, la **risposta simpatica è generalmente predominante**.
 
-### Effetti autonomici sul ritmo miocardico
+#### Effetti autonomici sul ritmo miocardico
 
 *Stimolazione simpatica*:
 
@@ -258,7 +260,7 @@ Quando l'omeostasi dell'organismo è messa a dura prova da fattori esterni o da 
 - Diminuzione della frequenza cardiaca.
 - Diminuzione della conduzione atrio-ventricolare (AV).
 
-### Risposta omeostatica all'esercizio dinamico: il cuore
+#### Risposta omeostatica all'esercizio dinamico: il cuore
 
 - A riposo si ha una **bassa frequenza cardiaca**, dovuta al tono parasimpatico predominante.
 - All'inizio dell'esercizio fisico si osserva un **aumento della frequenza cardiaca**, dovuto inizialmente alla riduzione dell'attività parasimpatica (fino a circa 100 battiti/min), e solo successivamente a un vero e proprio incremento della stimolazione simpatica, man mano che lo stimolo si intensifica.
@@ -267,7 +269,7 @@ Quando l'omeostasi dell'organismo è messa a dura prova da fattori esterni o da 
 
 L'aumento del consumo di ossigeno determina quindi un incremento sia della **frequenza cardiaca (HR)** sia della **gittata sistolica (stroke volume)**, risultando in un aumento della **gittata cardiaca (cardiac output)**.
 
-### Controllo del cardiac output da parte del sistema nervoso autonomo
+#### Controllo del cardiac output da parte del sistema nervoso autonomo
 
 ![alt text](images/2/output_rate_sv.png)
 
@@ -276,7 +278,9 @@ La **gittata cardiaca (cardiac output)** è il prodotto di **frequenza cardiaca*
 - la **pompa muscolare**: grazie alla presenza di valvole unidirezionali, le contrazioni ritmiche dei muscoli scheletrici attivi spingono il sangue venoso verso il cuore;
 - la **pompa respiratoria**: le variazioni di pressione intratoracica durante la ventilazione favoriscono ulteriormente il ritorno venoso.
 
-### Somministrazione di beta-bloccanti a scopo medico ed esercizio fisico
+### Farmacologia cardiovascolare e doping
+
+#### Somministrazione di beta-bloccanti a scopo medico ed esercizio fisico
 
 I farmaci **beta-bloccanti**:
 
@@ -286,7 +290,7 @@ I farmaci **beta-bloccanti**:
 
 Sono prescritti a pazienti affetti da **cardiopatia coronarica** e **ipertensione**, e riducono la frequenza cardiaca durante l'esercizio fisico sia submassimale che massimale — un aspetto importante da tenere in considerazione nella prescrizione dell'esercizio fisico a questi pazienti.
 
-### Beta-agonisti, beta-bloccanti e asma
+#### Beta-agonisti, beta-bloccanti e asma
 
 I **recettori beta-2** sono presenti nelle cellule muscolari lisce dei bronchi. I **beta-agonisti** inducono **broncodilatazione**, contrastando l'asma. Ne deriva che un soggetto sano che assume beta-bloccanti (o, all'opposto, beta-agonisti) può trarne un beneficio in termini di performance sportiva: per questo motivo entrambe le classi di farmaci sono presenti nella lista delle sostanze vietate dalla WADA.
 
@@ -405,7 +409,9 @@ La **vasodilatazione muscolare** aumenta la disponibilità di ossigeno e di sost
 
 Con uno sforzo fisico massimale, nell'uomo, il flusso sanguigno verso i **muscoli scheletrici** aumenta notevolmente, incrementando dell'**80-85%**.
 
-### Ridistribuzione del sangue tra i tessuti durante l'esercizio fisico
+### Distribuzione del flusso sanguigno e controllo simpatico
+
+#### Ridistribuzione del sangue tra i tessuti durante l'esercizio fisico
 
 Durante uno sforzo fisico massimale, il flusso sanguigno si ridistribuisce in modo selettivo tra i diversi organi:
 
@@ -415,11 +421,11 @@ Durante uno sforzo fisico massimale, il flusso sanguigno si ridistribuisce in mo
 - verso gli **organi interni** (reni, fegato, apparato gastrointestinale) diminuisce;
 - verso la **pelle** è relativamente basso, a meno che non si verifichino condizioni di temperatura elevata — in tal caso la dilatazione cutanea induce una significativa ridistribuzione del sangue verso questa zona, a scopo di termoregolazione.
 
-### L'aumento dell'attività simpatica è associato all'attività muscolare
+#### L'aumento dell'attività simpatica è associato all'attività muscolare
 
 La ridistribuzione del sangue dipende dal tasso metabolico e dall'intensità dell'esercizio fisico. Durante l'esercizio fisico (o già in previsione di esso, per effetto del comando centrale) si verifica un aumento dell'attività simpatica. Lo stesso fenomeno si osserva nella risposta di "lotta o fuga", ma con una differenza fondamentale: le aree **non muscolari** sono generalmente caratterizzate da una **vasocostrizione** dipendente dal sistema nervoso simpatico, mediata principalmente dai **recettori alfa-adrenergici**.
 
-### Prove a sostegno della regolazione simpatica del flusso sanguigno muscolare
+#### Prove a sostegno della regolazione simpatica del flusso sanguigno muscolare
 
 La **noradrenalina** (rilasciata dal sistema nervoso simpatico, SNS) agisce **preferenzialmente** sui recettori **alfa**. Gli **agonisti dei recettori alfa** inducono **vasocostrizione** negli espianti di vena femorale.
 
@@ -427,15 +433,17 @@ Nei pazienti con **insufficienza autonomica** dovuta a una simpatectomia chirurg
 
 **L'innervazione simpatica NON è necessaria per l'aumento del flusso sanguigno indotto dall'esercizio fisico**: in assenza di innervazione simpatica, il flusso sanguigno negli arti aumenta comunque in modo proporzionale all'intensità della contrazione (nell'esperimento, contrazioni della presa della mano della durata di 0,33 s).
 
-### Vasodilatazione muscolare acetilcolina-dipendente
+### Vasodilatazione colinergica: l'asse ACh-NO
+
+#### Vasodilatazione muscolare acetilcolina-dipendente
 
 L'**acetilcolina** somministrata aumenta il flusso sanguigno muscolare. La **denervazione simpatica NON altera** l'aumento del flusso sanguigno muscolare indotto dall'acetilcolina.
 
-### La vasodilatazione colinergica è mediata dal monossido di azoto (NO)
+#### La vasodilatazione colinergica è mediata dal monossido di azoto (NO)
 
 L'inibitore della sintesi di NO, la **N-monometil-L-arginina (L-NMMA)**, inibisce la vasodilatazione ACh-dipendente: questo dimostra che la **vasodilatazione colinergica è mediata dal monossido di azoto (NO)**, e non direttamente dall'acetilcolina sulle cellule muscolari lisce.
 
-### Qual è la fonte di acetilcolina?
+#### Qual è la fonte di acetilcolina?
 
 Non vi sono prove a sostegno di una vera e propria **innervazione parasimpatica** dei vasi nei muscoli degli arti. La vasodilatazione è invece coordinata con l'**attività muscolare**, che a sua volta è controllata dal rilascio di acetilcolina da parte dei **motoneuroni**.
 
@@ -444,11 +452,11 @@ I tentativi di contrazione dei muscoli umani paralizzati (tramite somministrazio
 - la diffusione dell'ACh dai nervi motori **NON** è un fattore vasodilatatore determinante nel muscolo sotto sforzo;
 - è necessaria la **contrazione muscolare locale** perché si inneschi la vasodilatazione.
 
-### L'endotelio in attività è la fonte dell'acetilcolina
+#### L'endotelio in attività è la fonte dell'acetilcolina
 
 L'acetilcolina viene rilasciata dalle cellule endoteliali *in vitro* in risposta a uno **stress meccanico** (perfusione elevata), condizione che riproduce ciò che avviene fisiologicamente durante l'esercizio fisico.
 
-### L'asse ACh-NO nelle cellule endoteliali induce la vasodilatazione muscolare
+#### L'asse ACh-NO nelle cellule endoteliali induce la vasodilatazione muscolare
 
 ![alt text](images/2/ach-no.png)
 
@@ -457,7 +465,9 @@ Il **NO** rilasciato dalle cellule endoteliali induce, nelle cellule muscolari l
 - riduzione del **calcio intracellulare citoplasmatico**;
 - defosforilazione della **miosina**, con conseguente **rilassamento** della muscolatura liscia vascolare.
 
-### Meccanismi multipli cooperano per indurre la vasodilatazione muscolare
+### Meccanismi aggiuntivi ed equilibrio vascolare
+
+#### Meccanismi multipli cooperano per indurre la vasodilatazione muscolare
 
 Oltre all'asse ACh-NO, ulteriori meccanismi contribuiscono alla vasodilatazione muscolare:
 
@@ -466,17 +476,17 @@ Oltre all'asse ACh-NO, ulteriori meccanismi contribuiscono alla vasodilatazione 
 
 L'adrenalina ha infatti un'affinità particolarmente alta per i recettori beta-2.
 
-### Il sistema nervoso simpatico può limitare il flusso sanguigno nei muscoli
+#### Il sistema nervoso simpatico può limitare il flusso sanguigno nei muscoli
 
 ![alt text](images/2/vaso.png)
 
 La notevole capacità dei vasi sanguigni muscolari di dilatarsi, se non controllata, potrebbe potenzialmente compromettere la capacità del cuore di mantenere una pressione sanguigna sufficiente a garantire un flusso adeguato agli altri organi, compreso il cervello. Il sistema simpatico "omeostatico" garantisce quindi il corretto equilibrio, **limitando** il flusso sanguigno nei muscoli.
 
-### Simpatolisi funzionale durante l'esercizio fisico ad alta intensità
+#### Simpatolisi funzionale durante l'esercizio fisico ad alta intensità
 
 La vasocostrizione "simpatica" mediata dagli agonisti alfa si **riduce localmente** all'aumentare dell'intensità dell'esercizio fisico, fornendo un ulteriore contributo alla vasodilatazione durante lo sforzo. In pratica, nel muscolo si osserva una **riduzione locale della sensibilità** dei recettori agonisti alfa con l'esercizio: questo fenomeno è noto come **simpatolisi funzionale**.
 
-### Equilibrio nel calibro vascolare muscolare durante l'esercizio fisico dinamico
+#### Equilibrio nel calibro vascolare muscolare durante l'esercizio fisico dinamico
 
 ![alt text](images/2/altalena.png)
 
