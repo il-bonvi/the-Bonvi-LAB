@@ -16,9 +16,9 @@ Qui sono raccolti gli appunti organizzati per insegnamento, con una struttura pe
 * [Risposta integrativa all'esercizio](adattamenti%20molecolari/02_risposta_integrativa_esercizio.md)
 * [Risposta mitocondriale all'esercizio di endurance](adattamenti%20molecolari/03_0_index_mitocondri.md)
 * [Risposta ipertrofica all'esercizio](adattamenti%20molecolari/04_0_risposta_ipertrofica.md)
-  
-in produzione
 * [Introduzione all'ipossia](adattamenti%20molecolari/05_introduzione_ipossia.md)
+
+in produzione
 * [Cervello ed esercizio](adattamenti%20molecolari/06_cervello_esercizio.md)
 * [Ipossia molecolare](adattamenti%20molecolari/07_ipossia_molecolare.md)
 * [Ipossia e attività fisica](adattamenti%20molecolari/08_ipossia_attività_fisica.md)
