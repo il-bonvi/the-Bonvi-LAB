@@ -83,7 +83,7 @@ Diversi regimi di esercizio aumentano l'attività di mTOR (e i marcatori della b
 
 ![alt text](images/4/image30.png)
 
-*schema che mostra come l'esercizio attivi mTOR, il quale a sua volta attiva S6K1 e S provocando un aumento della biogenesi ribosomiale, e "derepime" (derepression) il fattore di inizio della traduzione eucariotico 4E tramite l'inibizione di 4E-BP1, aumentando così l'efficienza della traduzione dell'mRNA*
+*schema che mostra come l'esercizio attivi mTOR, il quale a sua volta attiva S6K1 e S provocando un aumento della biogenesi ribosomiale, e deprime il fattore di inizio della traduzione eucariotico 4E tramite l'inibizione di 4E-BP1, aumentando così l'efficienza della traduzione dell'mRNA*
 
 ![alt text](images/4/image5.png)
 *a sinistra e al centro, dati sperimentali sull'uomo che mostrano un aumento significativo, dopo una sessione acuta di esercizio, sia della fosforilazione della proteina ribosomiale S6 (via mTOR, Western blot) sia dei livelli del precursore 45S dell'rRNA; a destra, tabella riassuntiva di diversi studi che riportano un aumento di marcatori della biogenesi ribosomiale in risposta a differenti protocolli di esercizio, sia nell'uomo che nel ratto*
