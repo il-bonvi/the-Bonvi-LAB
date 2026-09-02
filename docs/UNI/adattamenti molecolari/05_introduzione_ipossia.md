@@ -1,4 +1,4 @@
-# Ipossia: adattamenti fisiologici e sistema respiratorio
+# Introduzione all'ipossia
 
 ## Introduzione
 
