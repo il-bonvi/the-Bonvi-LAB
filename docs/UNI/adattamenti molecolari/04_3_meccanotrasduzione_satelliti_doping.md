@@ -44,6 +44,7 @@ La **dimensione della fibra** (*fiber size*) e il **contenuto mionucleare** sono
 ### Aggiunta di mionuclei e mantenimento del dominio mionucleare
 
 ![alt text](images/4/image32.png)
+
 *schema in due fasi: nella prima, una fibra con dominio mionucleare piccolo (1500 μm²) cresce tramite aumento della sintesi proteica netta, espandendo il dominio fino a un valore soglia (2000 μm²) sfruttando i nuclei già presenti; nella seconda fase, oltre quella soglia, l'ulteriore crescita della fibra richiede l'aggiunta di nuovi mionuclei per mantenere il dominio a un valore costante (2000 μm²), poiché l'efficienza/capacità ribosomiale dei nuclei esistenti non è più sufficiente*
 
 Al di sotto del **soffitto (*ceiling*)** del dominio mionucleare, gli stimoli ipertrofici inducono **l'espansione del dominio**, principalmente grazie all'aumento della **sintesi proteica** rispetto alla degradazione. Oltre il soffitto del dominio mionucleare, la dimensione del dominio viene invece mantenuta tramite l'**aggiunta di mionuclei**, fondendo le **cellule staminali del muscolo** (cellule satellite).
@@ -79,6 +80,7 @@ Il processo mostrato si attiva ogni volta che il muscolo subisce un danno (da in
 In topi privi di cellule satellite (modello Pax7-DTA) sottoposti a **ri-carico** (*reloading*) **dopo atrofia**, la dimensione del dominio mionucleare aumenta in modo simile rispetto ai topi dotati di cellule satellite (SC).
 
 ![alt text](images/4/image27.png)
+
 *a sinistra, schema che mette in parallelo la condizione umana (immobilizzazione degli arti, volo spaziale) con il corrispondente modello animale (immobilizzazione degli arti, sospensione degli arti posteriori); a destra, grafici (Jackson et al., 2012) che mostrano come sia l'area della sezione trasversale (CSA) sia il dominio mionucleare recuperino livelli normali dopo la sospensione (condizione "Reloaded"), sia nei topi con cellule satellite (barre nere) sia in quelli senza (barre grigie)*
 
 **Modelli di atrofia**: nell'uomo, immobilizzazione degli arti o volo spaziale; nel modello animale, immobilizzazione degli arti o sospensione degli arti posteriori.
@@ -94,6 +96,7 @@ Il quadro cambia quando si considera l'ipertrofia sostenuta nel tempo, oltre il 
 *grafico che mostra il peso del muscolo plantare (mg) nel tempo (da sham a 8 settimane dopo l'ablazione sinergica), confrontando topi con cellule satellite (barre bianche) e senza cellule satellite (barre nere): l'aumento di peso è iniziale simile nelle prime settimane, ma diverge progressivamente, con i topi privi di cellule satellite che restano indietro nelle settimane successive*
 
 ![alt text](images/4/image6.png)
+
 *due grafici (Egner et al., 2016) a 2 settimane dall'ablazione sinergica, che confrontano quattro gruppi (con/senza cellule satellite, con/senza ablazione sinergica) per area della sezione trasversale della fibra (CSA) e numero di nuclei per mm: sia la CSA sia il numero di nuclei aumentano significativamente solo nel gruppo con cellule satellite e ablazione sinergica, dimostrando che le cellule satellite sono necessarie per l'ipertrofia massimale a lungo termine*
 
 **Grafico A (peso muscolare)**: peso del muscolo (mg) nel tempo dopo l'intervento di SA, confrontando topi con cellule satellite (barre bianche) e senza (barre nere).
@@ -115,6 +118,7 @@ Il quadro cambia quando si considera l'ipertrofia sostenuta nel tempo, oltre il 
 Diverse miochine che regolano la sintesi e la degradazione proteica delle fibre muscolari durante l'ipertrofia indotta dall'esercizio fisico (viste nella Parte 1) modulano anche la funzione delle cellule satellite.
 
 ![alt text](images/4/image34.png)
+
 *schema che mostra le miochine (IL-7, LIF, IL-6, TGF-β, IGF-1, Miostatina) agire sia sulle cellule satellite (proliferazione, differenziazione) sia sulle miofibre (ipertrofia), con Miostatina e Decorina che agiscono in direzioni opposte, e IGF-1, TGF-β, Apelina, IL-15 e IL-6 che completano il quadro dei segnali diretti alle miofibre*
 
 ---
@@ -122,6 +126,7 @@ Diverse miochine che regolano la sintesi e la degradazione proteica delle fibre 
 ## Miochine e doping
 
 ![alt text](images/4/image22.png)
+
 *estratto dalla lista delle sostanze proibite WADA: sezione S2 (Peptide Hormones, Growth Factors, Related Substances, and Mimetics), che include tra gli altri gli inibitori del TGF-β e i fattori di crescita come l'IGF-1 e i suoi analoghi; sezione S4 (Hormone and Metabolic Modulators), che include gli agenti che prevengono l'attivazione del recettore dell'activina IIB, tra cui i competitori del recettore (come i recettori decoy ACE-031) e gli inibitori della miostatina (come follistatina, propeptide della miostatina, anticorpi neutralizzanti)*
 
 ### IGF-1 safety
@@ -142,6 +147,7 @@ Lo studio è stato **interrotto** dopo il secondo ciclo di somministrazione, a c
 ## Endurance training ed equilibrio anabolismo/catabolismo
 
 ![alt text](images/4/image14.png)
+
 *a sinistra, schema che mostra come l'attivazione dell'AMPK (indotta ad esempio dal ciclismo) blocchi sia S6K1/p70 (con conseguente riduzione della biogenesi ribosomiale) sia 4E-BP1/eIF-4E (con conseguente riduzione della traduzione dell'mRNA), inibendo la via di mTOR; a destra, schema della fibra muscolare che mostra come il Ca2+ rilasciato dal reticolo sarcoplasmatico durante la contrazione attivi, tramite CaMK/AMPK, la fosforilazione ed inattivazione di eEF2, bloccando la traduzione dell'mRNA*
 
 Esiste un'interazione **antagonistica** tra le vie di segnalazione dell'AMPK e dell'mTOR: le vie correlate all'AMPK attivate dall'allenamento di resistenza inibiscono la traduzione attraverso una ridotta fosforilazione di S6K e 4E-BP *(Bolster et al., 2002; Thomson et al., 2008; Lantier et al., 2010; Egawa et al., 2014)*, e un aumento della fosforilazione di eEF2 (inibizione, coerentemente con quanto visto nella Parte 2). L'effetto inibitorio dell'AMPK su mTOR sembra tuttavia essere **minore nell'uomo rispetto ai roditori** *(Hughes, 2018)*.
@@ -173,6 +179,7 @@ In uomini sedentari che hanno eseguito sessioni separate di esercizi di forza e 
 L'aumento dell'attività dell'AMPK non inibisce la segnalazione mTOR quando l'esercizio di resistenza viene eseguito **prima** dell'esercizio di forza/resistenza *(Apro et al., 2015)*. Un periodo di riposo di **6-24 ore** è sufficiente per evitare qualsiasi interferenza tra le due modalità di esercizio, almeno per quanto riguarda l'ipertrofia muscolare e la forza *(Robineau et al., 2014)*.
 
 ![alt text](images/4/image11.png)
+
 *grafico che mostra la variazione percentuale della forza muscolare massimale in giocatori di rugby dilettanti, confrontando un gruppo di controllo che non si allena (CONT) con gruppi che eseguono l'allenamento di forza seguito da allenamento di resistenza a distanza di 0 ore (C-0h), 6 ore (C-6h) o 24 ore (C-24h), oppure il solo allenamento di forza (STR): tutti i gruppi con recupero di almeno 6 ore mostrano un miglioramento della forza "quasi certamente benefico" (modificato da Robineau, 2014)*
 
 Il fenomeno delle interferenze potrebbe quindi essere **ridotto o addirittura eliminato del tutto**, se i parametri di allenamento (soprattutto il tempo di recupero tra le due modalità) fossero pianificati in modo adeguato.

@@ -68,6 +68,7 @@ Le miochine viaggiano attraverso i vasi sanguigni per raggiungere diversi organi
 Questo circuito prende il nome di ***muscle-brain endocrine loop***: un circuito di comunicazione bidirezionale in cui il muscolo segnala al cervello che il corpo è attivo, mentre il cervello risponde migliorando la plasticità neuronale e regolando l'appetito e il dispendio energetico in base allo sforzo in corso.
 
 ![alt text](images/6/image6.png)
+
 *schema riassuntivo dell'asse muscolo-cervello: il secretoma del muscolo scheletrico (regolato da PGC-1α, PPARδ, AMPK, ERRα, NRF1-2) rilascia in circolo BDNF, Catepsina B (CTSB), IL-6, VEGF, FNDC5, KAT e SPP1; questi fattori raggiungono il cervello attraversando la barriera emato-encefalica (tramite trasportatori come MCT e recettori come HCAR1), agendo su cellule gliali e neuroni per stimolare BDNF, FNDC5, PGC-1α e VEGF a livello centrale; il fegato contribuisce con FGF21, IGF-1 e BOHB (β-idrossibutirrato), mentre BOHB e la chinurenina (KYN) inibiscono l'asse a livello muscolare; il risultato finale nel cervello è angiogenesi, neurogenesi, miglior cognizione, sonno e umore*
 
 ### Altri mediatori dell'esercizio
@@ -162,6 +163,7 @@ Questo si traduce in un miglioramento delle funzioni che dipendono dall'ippocamp
 *In che misura questa miochina costituisce un fattore determinante nel miglioramento delle funzioni cognitive indotto dall'esercizio fisico nell'uomo?*
 
 ![alt text](images/6/image2.png)
+
 *schema del percorso della catepsina B: l'esercizio induce il rilascio di catepsina B dal muscolo, che attraversa la barriera emato-encefalica e raggiunge il cervello, dove aumenta i livelli di BDNF e di doublecortina (marcatore di nuovi neuroni immaturi), stimolando la neurogenesi ippocampale e, di conseguenza, l'apprendimento, la memoria e l'umore dipendenti dall'ippocampo*
 
 ---
@@ -181,6 +183,7 @@ L'irisina viaggia fino al tessuto adiposo bianco (**WAT**, quello che accumula g
 *Studio*: l'esercizio fisico di resistenza determina un aumento dell'espressione del gene *Fndc5* nell'ippocampo dei topi.
 
 ![alt text](images/6/image4.png)
+
 *cinque grafici sperimentali: (A) nel quadricipite, l'esercizio (free wheel-running, verde) aumenta l'espressione di Fndc5, Pgc1a ed Erra rispetto ai sedentari (nero); (B) lo stesso aumento si osserva nell'ippocampo; (C) nel "brain" (cervello nel suo complesso) le differenze non sono invece significative (n.s.); (D) nell'ippocampo, l'esercizio aumenta anche l'espressione di Bdnf, Arc, cFos e Zif268 (ma non di Igf1 e Npas4); (E) variazioni simili, seppur più contenute, si osservano nel "brain"*
 
 Il **ruolo di PGC-1α**: nei topi privi del gene *Pgc1a* (topi -/-) si osservano livelli molto più bassi sia di *Fndc5* sia di *Bdnf* nel cervello — a dimostrazione che il PGC-1α muscolare è necessario per avere un cervello sano.
@@ -192,9 +195,11 @@ Il **ruolo di PGC-1α**: nei topi privi del gene *Pgc1a* (topi -/-) si osservano
 Il **knockdown di FNDC5**, mediato dall'interferenza dell'RNA, porta quindi a una riduzione dell'espressione del gene *Bdnf* — una prova diretta che FNDC5 è necessario per sostenere i livelli di BDNF.
 
 ![alt text](images/6/image1.png)
+
 *a sinistra (pannello C), nel forebrain l'esercizio (verde) aumenta significativamente l'espressione di Arc, cFos, Npas4 e Zif268 rispetto ai sedentari (nero), ma non quella di Fndc5, Bdnf e Igf1; a destra (pannello D), schema riassuntivo del meccanismo: l'esercizio induce PGC1α/Erra nel muscolo, che stimola FNDC5, il quale a sua volta induce BDNF (con un anello di feedback negativo su FNDC5 stesso), portando a sopravvivenza, differenziazione e plasticità delle cellule nervose, e infine a cognizione, apprendimento e memoria*
 
 ![alt text](images/6/image10.png)
+
 *due grafici: (A) nel tessuto adiposo inguinale (WAT), la somministrazione periferica di FNDC5 (verde) rispetto al controllo (GFP, nero) aumenta l'espressione di geni associati al browning e al dispendio energetico (Pgc1a, Ucp1, Cidea, Dio2, Fgf21, Cytc, Prdm16); (B) nell'ippocampo, la stessa somministrazione periferica di FNDC5 aumenta l'espressione di Bdnf, Arc, cFos, Npas4 e Zif268 (ma non di Fndc5 e Igf1)*
 
 La somministrazione **periferica** di FNDC5 aumenta l'espressione di BDNF nell'ippocampo, suggerendo che l'FNDC5/irisina circolante possa effettivamente influenzare il cervello. In sintesi:
@@ -210,11 +215,13 @@ La somministrazione **periferica** di FNDC5 aumenta l'espressione di BDNF nell'i
 I corpi chetonici, sotto forma di **β-idrossibutirrato** e **acetoacetato**, fungono da fonte di energia alternativa al glucosio.
 
 ![alt text](images/6/image5.png)
+
 *schema della chetogenesi epatica e del suo utilizzo muscolare: nel fegato, la lipolisi produce acidi grassi liberi (FFA), che tramite β-ossidazione generano Acetil-CoA; la via della chetogenesi (1-4) converte l'Acetil-CoA in acetoacetato e infine 3-idrossibutirrato (3-OH butyrate), che viene rilasciato ed entra nel muscolo, dove viene riconvertito in acetoacetato e Acetil-CoA (via della chetosi, I-III) per alimentare il ciclo di Krebs (TCA cycle)*
 
 È stato dimostrato che l'esercizio fisico prolungato stimola un aumento dei livelli di β-idrossibutirrato nel sangue. Il **β-idrossibutirrato** si è dimostrato un efficace agente **neuroprotettivo** in modelli sperimentali della malattia di **Huntington** e del morbo di **Parkinson**, proteggendo rispettivamente i neuroni striatali e quelli dopaminergici.
 
 ![alt text](images/6/image7.png)
+
 *schema semplificato: l'esercizio (che brucia grassi) stimola il fegato a produrre corpi chetonici, che attraversano la barriera emato-encefalica e raggiungono l'ippocampo, dove attivano l'espressione genica (tramite l'inibizione dell'istone deacetilasi) portando a un aumento del BDNF*
 
 I corpi chetonici aumentano notevolmente nella circolazione sanguigna e nel cervello in seguito al **digiuno**, a **diete chetogeniche** o a basso contenuto di carboidrati, e all'**esercizio fisico intenso o prolungato**.
@@ -246,6 +253,7 @@ Gli anziani in buona salute (di età superiore ai 70 anni) mantengono la capacit
 ## Asse PGC-1α-chinurenina
 
 ![alt text](images/6/image11.png)
+
 *schema del metabolismo del triptofano: il triptofano può essere convertito in serotonina, oppure (via TDO/IDO) avviare la "via della chinurenina", che genera chinurenina e, successivamente, sia acido chinurenico (KYNA, tramite l'enzima chinurenina aminotransferasi, KAT) sia una cascata di metaboliti (3-OH-chinurenina, acido chinurenico, acido chinolinico) fino alla sintesi di NAD+*
 
 La sovraespressione di PGC-1α nel muscolo ha un effetto simile a quello degli antidepressivi, riducendo l'ingresso nel cervello della **chinurenina**, una sostanza neurotossica. L'esercizio fisico determina infatti l'attivazione della via **PGC-1α-PPARα-PPARδ**, che stimola l'espressione dell'enzima **chinurenina aminotransferasi** nei muscoli scheletrici — l'enzima responsabile della conversione della chinurenina neurotossica nell'acido chinurenico (KYNA), che non attraversa la barriera emato-encefalica ed è quindi neuroprotettivo.
@@ -255,6 +263,7 @@ La sovraespressione di PGC-1α nel muscolo ha un effetto simile a quello degli a
 ## Adipociti e cervello
 
 ![alt text](images/6/image3.png)
+
 *schema del crosstalk multi-organo indotto dall'esercizio (Load): il tessuto adiposo (con variazioni di adiponectina, leptina, resistina, massa grassa, lipolisi, browning), il fegato (produzione di glucosio, captazione di acidi grassi, sintesi di colesterolo e glicogeno) e il muscolo scheletrico (massa, forza, captazione di glucosio e acidi grassi) comunicano tra loro, contribuendo insieme, insieme alla riduzione dell'infiammazione cronica, a un miglioramento della sensibilità insulinica periferica*
 
 L'**adiponectina** è una proteina secreta dagli adipociti, prodotta e rilasciata nella circolazione principalmente dal tessuto adiposo. Studi condotti sui roditori hanno dimostrato che l'adiponectina viene espressa e rilasciata anche dal tessuto muscolare in relazione all'attività fisica.
@@ -268,6 +277,7 @@ L'adiponectina è in grado di attraversare la barriera emato-encefalica e di ind
 Il fegato rilascia proteine secretorie, note in questo caso come **epatocine**, coinvolte nel metabolismo. Epatocine quali il fattore di crescita dei fibroblasti 21 (**FGF21**) e il fattore di crescita insulino-simile 1 (**IGF-1**) sono coinvolte nell'interazione tra il fegato e i tessuti cerebrali — un'interazione che può essere modulata dall'esercizio fisico.
 
 ![alt text](images/6/image12.png)
+
 *schema degli effetti multi-organo dell'FGF21 (rilasciato principalmente dal fegato): a livello epatico aumenta la gluconeogenesi e l'escrezione di colesterolo, riduce la biosintesi di colesterolo, aumenta la clearance lipidica e la sensibilità insulinica, e riduce l'accumulo di ceramidi; a livello del tessuto adiposo aumenta l'attività di browning e la captazione di glucosio; a livello cardiaco riduce stress ossidativo e apoptosi; a livello cerebrale aumenta la riproduzione e l'attività circadiana; a livello sistemico aumenta la clearance lipidica e la sensibilità insulinica*
 
 ---

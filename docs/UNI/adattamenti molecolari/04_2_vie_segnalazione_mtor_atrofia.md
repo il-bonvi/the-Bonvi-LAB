@@ -86,11 +86,13 @@ Diversi regimi di esercizio aumentano l'attività di mTOR (e i marcatori della b
 *schema che mostra come l'esercizio attivi mTOR, il quale a sua volta attiva S6K1 e S provocando un aumento della biogenesi ribosomiale, e deprime il fattore di inizio della traduzione eucariotico 4E tramite l'inibizione di 4E-BP1, aumentando così l'efficienza della traduzione dell'mRNA*
 
 ![alt text](images/4/image5.png)
+
 *a sinistra e al centro, dati sperimentali sull'uomo che mostrano un aumento significativo, dopo una sessione acuta di esercizio, sia della fosforilazione della proteina ribosomiale S6 (via mTOR, Western blot) sia dei livelli del precursore 45S dell'rRNA; a destra, tabella riassuntiva di diversi studi che riportano un aumento di marcatori della biogenesi ribosomiale in risposta a differenti protocolli di esercizio, sia nell'uomo che nel ratto*
 
 ### mTOR e le tre RNA polimerasi
 
 ![alt text](images/4/image12.png)
+
 *schema che mostra come mTORC1 (in confronto a c-myc) moduli l'attività di RNA Polimerasi I (tramite SL-1, UBF, acetilazione degli istoni → trascrizione del pre-rRNA 47S), RNA Polimerasi II (trascrizione dell'mRNA per le proteine ribosomiali e per i fattori coinvolti nel processamento dell'rRNA, nell'assemblaggio del ribosoma e nell'esportazione nucleare) e RNA Polimerasi III (tramite Maf1, TFIIIC, TFIIIB → trascrizione di tRNA e rRNA 5S), con tutti i prodotti che confluiscono nell'assemblaggio del ribosoma maturo e nella sintesi proteica (Chaillou, 2014)*
 
 mTOR (e in particolare l'isoforma **mTORC1**) modula indirettamente l'attività di:
@@ -112,6 +114,7 @@ Un modello sperimentale molto usato per studiare l'ipertrofia è l'**ablazione d
 Nel modello di ablazione del muscolo sinergico, la trascrizione di diversi **geni** che modulano positivamente la **biogenesi dei ribosomi** risulta **up-regolata** (aumentata).
 
 ![alt text](images/4/image7.png)
+
 *tabella (microarray screening) che mostra l'aumento (fold change) dal giorno 1 al giorno 7 dopo ablazione sinergica di diversi geni coinvolti nella trascrizione da parte della RNA Polimerasi I (Polr1c, Polr1e, Taf1b, Taf1d), nel processamento dell'rRNA (Nop56, Bop1), nell'assemblaggio del ribosoma (Ncl, Rpl3) e nell'esportazione nucleare del ribosoma (Npm1, Fbl)*
 
 Questa ricerca dimostra che l'ipertrofia non è solo un aumento di volume d'acqua o grasso, ma un processo guidato da una **massiccia riprogrammazione genetica**. Il muscolo "capisce" di essere sotto sforzo e risponde aumentando la sua **capacità traduzionale** (più ribosomi) per poter costruire nuove fibre più forti. In breve: più carico → più geni dei ribosomi → più ribosomi → più sintesi proteica → ipertrofia.
@@ -131,6 +134,7 @@ Nel modello di ipertrofia per ablazione muscolare sinergica, la trascrizione di 
 Il sovraccarico dovuto all'ablazione sinergica (SA) induce nel muscolo plantare:
 
 ![alt text](images/4/image2.png)
+
 *istogramma che mostra un aumento significativo dell'RNA totale (μg RNA/mg muscolo, fold change rispetto allo sham) a 3, 7 e 14 giorni dopo l'ablazione sinergica, accompagnato dalla nota che oltre l'85% dell'RNA totale è costituito da rRNA, per cui un aumento dell'RNA totale equivale a un aumento della biogenesi ribosomiale*
 
 - un aumento dell'**RNA totale**;
@@ -180,6 +184,7 @@ L'**AMPK** probabilmente non è coinvolta in questo processo, poiché la contraz
 ## Atrofia muscolare
 
 ![alt text](images/4/image18.png)
+
 *schema riassuntivo dell'atrofia muscolare: le cause fisiologiche (invecchiamento/sarcopenia, riposo prolungato, stile di vita sedentario) e le cause patologiche (AIDS, cancro, diabete, scompenso cardiaco, BPCO, insufficienza renale, lesioni del midollo spinale, distrofie, tra le altre) convergono su stimoli comuni (basso IGF-1/insulino-resistenza, ligandi TGF-β come la miostatina, glucocorticoidi, angiotensina, citochine infiammatorie, ROS) che attivano vie di segnalazione (alterata segnalazione AKT/attivazione di FoxO, via NF-κB, MAPK) le quali determinano una diminuzione dell'anabolismo (ridotta biogenesi/efficienza dei ribosomi) e un aumento del catabolismo (autofagia, proteasoma, calpaine, caspasi, apoptosi)*
 
 **Cause fisiologiche**: invecchiamento (es. sarcopenia), riposo prolungato (allettamento), stile di vita sedentario.

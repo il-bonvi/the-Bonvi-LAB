@@ -16,6 +16,7 @@ Dopo 8-12 settimane di allenamento della forza nell'uomo si osservano aumenti ev
 Per **catabolismo** intendiamo lo scomporre le molecole complesse in molecole più semplici, liberando energia (ATP). Per **anabolismo**, dall'altra parte, intendiamo l'utilizzo di energia per costruire molecole complesse, essenziali per la crescita e la riparazione dei tessuti. Entrambi i processi lavorano in un continuo equilibrio, e la massa muscolare a un dato momento è il risultato netto di questa bilancia.
 
 ![alt text](images/4/image15.png)
+
 *schema a bilancia che mostra, da un lato, i fattori del catabolismo (Citochine, FoxO, PGC1, Miostatina, UPS, ROS, PIF, Ang II, Glucocorticoidi, Catepsine, KF-B, Calpaine) e, dall'altro, i fattori dell'anabolismo (Attività, mTOR/p70S6k, IGF-1, Cellule satellite), con l'ago della bilancia che determina se la massa muscolare scheletrica sale (HIGH) o scende (LOW)*
 
 ### Anabolismo nel muscolo
@@ -45,6 +46,7 @@ I fattori che portano invece alla perdita di muscolo (atrofia, approfondita nell
 Le **miochine** sono molecole proteiche, un tipo di citochine (messaggeri chimici), prodotte e rilasciate dai muscoli scheletrici durante la contrazione, specialmente grazie all'esercizio fisico. Alcuni esempi di miochine sono: miostatina, varie citochine, IGF-1.
 
 ![alt text](images/4/image21.png)
+
 *schema che mostra il muscolo come organo endocrino, con le miochine rilasciate durante l'esercizio che raggiungono e modulano numerosi organi e tessuti: tessuto adiposo (lipolisi, browning), cervello (funzione cognitiva, stress/depressione), pancreas (secrezione insulinica, iperplasia delle cellule α), fegato (metabolismo del glucosio), osso (formazione, mineralizzazione), intestino (rilascio di GLP1), cellule immunitarie (infiammazione) e tumore (mobilizzazione ed effetti anti-tumorali delle cellule NK)*
 
 Le principali caratteristiche delle miochine sono:
@@ -110,6 +112,7 @@ I ricercatori hanno incrociato topi privi di miostatina (knockout per il gene MS
 I risultati hanno mostrato che l'IGF-1 aumenta la massa muscolare in tutti i casi, ma l'effetto è molto più marcato quando la miostatina è assente: si osserva infatti un aumento della massa muscolare superiore alla semplice somma dei due effetti, indicando una sorta di **sinergia**.
 
 ![alt text](images/4/image16.png)
+
 *grafici sperimentali (Andre et al., 2017) che mostrano, sia in topi wild-type sia nel modello di distrofia muscolare mdx, come il trattamento con mRK-35 (un inibitore della miostatina) induca, rispetto al veicolo, un aumento del peso corporeo, della forza di presa e del peso di diversi muscoli (TA, Gastrocnemio, Quadricipite), oltre a uno spostamento verso destra della distribuzione dell'area delle fibre*
 
 Dal punto di vista dei meccanismi, lo studio evidenzia che i due sistemi regolano aspetti diversi della crescita muscolare: la **miostatina** controlla principalmente il numero di fibre (iperplasia), mentre l'**IGF-1** regola la dimensione delle fibre (ipertrofia). Inoltre, entrambi influenzano vie intracellulari come AKT/mTOR (approfondita nella Parte 2), ma in modo distinto e complementare.

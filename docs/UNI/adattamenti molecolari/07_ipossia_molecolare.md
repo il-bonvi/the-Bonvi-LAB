@@ -7,6 +7,7 @@ Le piante sono in grado di convertire l'energia solare in energia chimica sotto 
 Sfruttando i mitocondri, le nostre cellule riescono a produrre grandi quantità di ATP attraverso il ciclo di Krebs e la catena di trasporto degli elettroni.
 
 ![alt text](images/7/image7.png)
+
 *schema delle tre fasi della respirazione cellulare all'interno del mitocondrio: Stadio 1 (glicolisi, nel citoplasma, da glucosio a acido piruvico), Stadio 2 (ciclo di Krebs, nella matrice mitocondriale, con produzione di CO2 e NADH), Stadio 3 (catena di trasporto degli elettroni/azione dell'ATP sintasi, nella membrana interna), con produzione di ATP in ciascuna fase*
 
 All'esterno del mitocondrio avviene la **glicolisi**, che dal glucosio produce acido piruvico; quest'ultimo entra poi nel ciclo di Krebs per produrre **NADH** e **FADH₂**, trasportatori di elettroni fondamentali per la catena di trasporto degli elettroni.
@@ -26,6 +27,7 @@ L'utilizzo di O₂ induce la formazione di **specie reattive dell'ossigeno (ROS)
 In condizioni non ipossiche, una piccola percentuale del consumo mitocondriale totale di O₂ (1-2%) porta comunque alla generazione di ROS, a causa della perdita di elettroni nei complessi I e III della catena di trasporto degli elettroni.
 
 ![alt text](images/7/image8.png)
+
 *schema dei danni cellulari provocati da un eccesso di ROS (O2•⁻, HO•, H2O2): perossidazione lipidica della membrana cellulare, inattivazione di enzimi tramite ossidazione delle proteine (ONOO), frammentazione del DNA nel nucleo, danno mitocondriale e ulteriore frammentazione del DNA — con conseguenze quali inattivazione enzimatica, modifica dell'attività funzionale dei recettori e distruzione della struttura proteica*
 
 In quantità elevate, i ROS possono creare danni severi alla cellula, in particolare: frammentazione del DNA (nei casi più gravi), compromissione della funzionalità dei mitocondri fino alla loro distruzione, ed effetti dannosi sulle proteine, che vengono decomposte oppure mal ripiegate (diventando così citotossiche) e destinate alla degradazione da parte del complesso ubiquitina-proteasoma.
@@ -72,6 +74,7 @@ L'ipossia (basso livello di O₂) si è affermata come vero e proprio **principi
 *schema semplificato della regolazione trascrizionale: regolatori positivi (a sinistra) attivano la trascrizione di più geni target, mentre regolatori negativi (a destra) la inibiscono, producendo un output finale*
 
 ![alt text](images/7/image17.png)
+
 *schema della regolazione post-trascrizionale e traduzionale: dal gene trascritto (con i suoi esoni) l'mRNA può andare incontro a splicing alternativo, essere esportato dal nucleo, tradotto (translation) dal ribosoma, oppure regolato nella lunghezza della coda poli(A) (deadenilazione/poliadenilazione), immagazzinato e silenziato, degradato, o regolato da miRNA*
 
 ![alt text](images/7/image13.png)
@@ -98,6 +101,7 @@ Per **epigenetica** si intendono quei fenomeni che non portano a cambiamenti nel
 Alla fine del XIX secolo, Paul Bert dimostrò che un elemento importante della risposta all'ipossia è l'aumento della produzione di globuli rossi. Questo aumento è mediato dall'ormone **eritropoietina (EPO)** e, di conseguenza, aumenta la quantità di emoglobina disponibile per trasportare l'ossigeno ai tessuti.
 
 ![alt text](images/7/image4.png)
+
 *schema del percorso dell'eritropoietina: l'ipossia stimola il rilascio di EPO da parte del rene, che raggiunge il midollo osseo (bone marrow) e stimola la produzione di globuli rossi (red cells), aumentando così il trasporto di ossigeno dai polmoni ai tessuti (circa 200×10⁹ globuli rossi al giorno)*
 
 Fu scoperto che l'aumento della produzione di EPO indotto dall'ipossia dipende da una maggiore trascrizione del gene dell'EPO. I primi studi si concentrarono quindi sull'identificazione delle sequenze di DNA che potrebbero controllare l'espressione dell'EPO.
@@ -107,6 +111,7 @@ Negli anni '90, **Gregg Semenza** identificò, purificò e clonò un fattore di 
 ### Come viene rilevato l'ossigeno dai tessuti?
 
 ![alt text](images/7/image5.png)
+
 *schema del meccanismo di regolazione ossigeno-dipendente di HIFα: in presenza di O2, ascorbato, 2-ossoglutarato (2-OG) e Fe2+, le PHD idrossilano HIFα (producendo succinato e CO2); HIFα idrossilato viene riconosciuto da pVHL, poliubiquitinato e degradato dal proteasoma; in condizioni di ipossia, HIFα non idrossilato si dimerizza con HIF1β nel nucleo e si lega agli elementi responsivi all'ipossia (HRE) sul DNA*
 
 Il meccanismo alla base è il seguente:
@@ -141,6 +146,7 @@ Gli HIF sono eterodimeri composti da una subunità labile all'O₂ (HIF-1α, -2�
 Esiste però un **secondo livello di controllo**, indipendente dalla degradazione: in condizioni non ipossiche, la transattivazione (cioè la capacità di HIF-1α di attivare effettivamente la trascrizione, una volta legato al DNA) viene contrastata dal **fattore inibitore dell'HIF-1 (FIH-1)**, un'asparaginilidrossilasi che agisce sul dominio di transattivazione C-terminale (CTAD) di HIF-α, **bloccando** l'interazione tra HIF-α e i **coattivatori trascrizionali p300/CBP** — proteine necessarie per la piena attivazione dei geni bersaglio di HIF.
 
 ![alt text](images/7/image9.png)
+
 *schema dei due meccanismi di controllo di HIF-1α in normossia: (in alto) la poliubiquitinazione mediata da VHL porta HIF-1α al proteasoma per la degradazione; (in basso) FIH-1 blocca il legame tra HIF-1α idrossilato e i coattivatori p300/CBP, impedendo l'attivazione dei geni bersaglio anche quando una quota di HIF-1α sfugge alla degradazione; in ipossia, HIF-1α si dimerizza con HIF-1β ed entra nel nucleo, legando l'HRE e attivando la trascrizione dei geni bersaglio*
 
 In sintesi, in normossia esistono quindi **due meccanismi di controllo** indipendenti che tengono a freno HIF-1α:
@@ -151,6 +157,7 @@ In sintesi, in normossia esistono quindi **due meccanismi di controllo** indipen
 ### HIF in ipossia: stabilizzazione e trascrizione
 
 ![alt text](images/7/image22.png)
+
 *lo stesso schema del meccanismo di regolazione ossigeno-dipendente di HIFα visto sopra, qui a supporto specifico della condizione di ipossia*
 
 L'idrossilazione della prolina di HIF-α, mediata dalle PHD, viene **inibita** in condizioni di ipossia (<1% di O₂), determinando:
@@ -179,6 +186,7 @@ Vediamoli nel dettaglio, uno per uno.
 ### 1. Aumento dell'assorbimento del glucosio
 
 ![alt text](images/7/image21.png)
+
 *porzione dello schema del metabolismo cellulare che evidenzia i trasportatori GLUT1/3 all'ingresso della via glicolitica, con il glucosio che entra nella cellula e viene fosforilato da HK1/2 a glucosio 6-fosfato, da cui si dirama sia la via glicolitica (verso fruttosio 6-fosfato) sia la via del pentoso fosfato (PPP, verso ribulosio 5-fosfato)*
 
 L'HIF-α induce l'espressione dei trasportatori del glucosio **GLUT1** e **GLUT3**, aumentando l'assorbimento cellulare del glucosio.
@@ -224,6 +232,7 @@ L'espressione HIFα-dipendente della subunità regolatrice 3C della proteina fos
 ### 4. Inibizione dell'ingresso dell'acetil-CoA nel ciclo di Krebs
 
 ![alt text](images/7/image25.png)
+
 *porzione dello schema metabolico centrata sul mitocondrio, con il blocco PDK1-PDH evidenziato (riquadro blu): il piruvato, invece di essere convertito in Acetil-CoA per alimentare il ciclo di Krebs (TCA cycle), viene mantenuto come piruvato dall'inibizione della PDH*
 
 L'HIF-1α induce la **piruvato deidrogenasi chinasi 1 (PDK1)**, che fosforila e inibisce la **piruvato deidrogenasi (PDH)**, riducendo la conversione del piruvato in acetil-CoA. In questo modo non viene prodotta acetil-CoA a partire dal piruvato, il ciclo di Krebs viene inibito e, di conseguenza, anche la fosforilazione ossidativa.
@@ -231,6 +240,7 @@ L'HIF-1α induce la **piruvato deidrogenasi chinasi 1 (PDK1)**, che fosforila e 
 ### 5. Decremento della capacità respiratoria
 
 ![alt text](images/7/image16.png)
+
 *porzione dello schema metabolico con il riquadro "Mitochondrial autophagy" evidenziato (BNIP3, BNIP3L), che innesca la degradazione selettiva dei mitocondri*
 
 Questo punto corrisponde a un potenziamento dell'**autofagia mitocondriale**: l'HIF-1α induce l'espressione di **BNIP3** e **BNIP3L**, favorendo l'autofagia mitocondriale (*mitofagia*). L'obiettivo è ridurre il numero di mitocondri, eliminando in particolare quelli che presentano difetti — i più inclini a produrre ROS in eccesso.
@@ -286,6 +296,7 @@ graph LR
 Il **ripiegamento delle proteine** è un requisito fondamentale per l'omeostasi cellulare. Negli eucarioti, le proteine nascenti vengono traslocate come polipeptidi non ripiegati nel lume del reticolo endoplasmatico (ER), dove subiscono modificazioni co- e post-traduzionali per acquisire il loro stato funzionale e ripiegato. I **legami disolfuro** sono un fattore determinante della stabilità proteica, e derivano dall'ossidazione dei gruppi tiolici (-SH) tra i residui di cisteina delle proteine in fase di ripiegamento.
 
 ![alt text](images/7/image6.png)
+
 *schema del ripiegamento ossidativo nel lume del reticolo endoplasmatico (ER lumen): partendo da una proteina non ripiegata (unfolded) o già ripiegata (folded), coppie di elettroni vengono trasferite in sequenza da PDI a un ossidasi, fino a FADH2 e infine a O2, che in condizioni di ipossia (a destra) diventa un fattore limitante per il completamento del processo*
 
 L'ossigeno è quindi importante per due motivi principali:

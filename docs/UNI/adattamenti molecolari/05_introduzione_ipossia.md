@@ -125,6 +125,7 @@ graph LR
 Il corpo umano ha bisogno di ossigeno per sostenere il **metabolismo aerobico**: dopo pochi minuti senza ossigeno, le cellule cerebrali iniziano a subire danni irreversibili. L'ossigeno entra nell'organismo attraverso l'apparato respiratorio, viene poi distribuito in tutto il corpo dal sistema circolatorio e utilizzato dai mitocondri per produrre ATP.
 
 ![alt text](images/5/image5.png)
+
 *schema del metabolismo aerobico: a sinistra, la glicolisi converte il glucosio in piruvato (con ADP/AMP che stimolano la fosfofruttochinasi, e ATP e citrato che la inibiscono), il piruvato entra nell'ossidazione piruvica; a destra, il ciclo dell'acido citrico (ciclo di Krebs) genera i substrati (Acetil-CoA da acidi grassi/citrato) per la catena di trasporto degli elettroni e la sintesi di ATP, con isocitrato deidrogenasi regolata negativamente da ATP/NADH e positivamente da ADP/NAD+*
 
 Il fattore inducibile dall'ipossia (**HIF**, *Hypoxia Inducible Factor*) è il principale sensore molecolare della disponibilità di ossigeno nella cellula: quando l'ossigeno scarseggia, HIF si accumula e attiva la trascrizione di geni che aiutano la cellula e l'organismo ad adattarsi — dalla produzione di EPO (vista sopra) all'angiogenesi, fino al riorientamento del metabolismo energetico verso la via glicolitica, meno dipendente dall'ossigeno rispetto alla fosforilazione ossidativa.
@@ -198,6 +199,7 @@ Il 98,5% dell'ossigeno viene trasportato legato all'**emoglobina** (ogni molecol
 $$Hb + 4O_2 \leftrightarrow Hb(O_2)_4$$
 
 ![alt text](images/5/image4.png)
+
 *curva di dissociazione dell'emoglobina, che mostra la percentuale di saturazione dell'emoglobina con O2 in funzione della PO2 (mmHg): a valori tipici della PO2 nei capillari tissutali a riposo (~40 mmHg) circa 2 dei 4 siti del ferro sono legati all'O2, mentre ai valori tipici della PO2 durante esercizio intenso (~20 mmHg) l'emoglobina rilascia più ossigeno; ai valori tipici della PO2 nei capillari polmonari (~100 mmHg) quasi tutti i siti del ferro sono legati all'O2*
 
 Quando la pressione parziale di ossigeno è alta, ogni molecola di emoglobina lega 4 molecole di ossigeno (saturazione 100%). Quando la PO₂ è bassa, come nei tessuti a riposo o sotto sforzo, l'emoglobina rilascia ossigeno. La curva ha una caratteristica forma **sigmoide**, dovuta alla **cooperazione delle subunità di emoglobina**: la struttura dell'emoglobina cambia quando viene acquisita o persa una molecola di O₂, aumentando o diminuendo l'affinità per il legame verso le altre molecole.
@@ -207,6 +209,7 @@ Quando la pressione parziale di ossigeno è alta, ogni molecola di emoglobina le
 *curva di dissociazione dell'emoglobina con focus sul concetto di "ossigeno di riserva": la PO2 del sangue che abbandona i polmoni è di circa 100 mmHg (100% di ossigeno legato), mentre la PO2 media del sangue deossigenato di ritorno al cuore è di 40 mmHg; in condizioni di riposo o leggero esercizio solo il 25% dell'O2 nel sangue arterioso viene ceduto ai tessuti, mentre il restante 75% rimane legato all'emoglobina come riserva, disponibile per i tessuti con una PO2 più bassa (ad esempio durante esercizio intenso)*
 
 ![alt text](images/5/image11.png)
+
 *curva di dissociazione dell'emoglobina con focus sulla cooperatività tra le subunità: a bassi valori di PO2 solo una molecola di O2 si lega all'emoglobina; una volta legata la prima molecola di O2, l'affinità della proteina per l'O2 aumenta (da qui la ripida risalita della curva); quando già tre molecole di O2 sono legate, è necessario un aumento molto maggiore di PO2 per raggiungere il 100% di legame (da qui l'appiattimento della curva verso l'alto)*
 
 ### Cambiamenti nell'affinità con l'ossigeno
@@ -229,6 +232,7 @@ La **mioglobina** è una catena proteica legata a una singola molecola di O₂, 
 La CO₂ viene trasportata nel sangue principalmente sotto forma di **ione bicarbonato (HCO₃⁻)** (65%), oppure legata all'emoglobina (Hb, 25%). Il restante 10% è semplicemente disciolto nel sangue.
 
 ![alt text](images/5/image12.png)
+
 *schema in 7 passaggi del trasporto della CO2 nel sangue: (1) nei tessuti corporei la CO2 diffonde dalle cellule al plasma e ai globuli rossi (GR); (2) circa il 5% resta disciolto nel plasma; (3) circa il 20% si combina con l'emoglobina; (4) nei GR e nell'endotelio circa il 70% viene rapidamente convertito in ioni bicarbonato grazie all'anidrasi carbonica (AC), con gli ioni bicarbonato che entrano nel plasma in cambio di ioni cloruro; (5-6) nei polmoni questi processi si invertono: il bicarbonato rientra nei GR e forma acido carbonico, che si dissocia liberando CO2; (7) la CO2 diffonde dal sangue al plasma e all'aria negli alveoli, da dove viene espulsa con l'espirazione*
 
 ### Check points per il respiro regolare
