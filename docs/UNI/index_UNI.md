@@ -19,7 +19,5 @@ Qui sono raccolti gli appunti organizzati per insegnamento, con una struttura pe
 * [Introduzione all'ipossia](adattamenti%20molecolari/05_introduzione_ipossia.md)
 * [Cervello ed esercizio](adattamenti%20molecolari/06_cervello_esercizio.md)
 * [Ipossia molecolare](adattamenti%20molecolari/07_ipossia_molecolare.md)
-
-in produzione
 * [Ipossia e attività fisica](adattamenti%20molecolari/08_ipossia_attività_fisica.md)
 * [Ipossia e altitudine](adattamenti%20molecolari/09_ipossia_altitudine.md)
