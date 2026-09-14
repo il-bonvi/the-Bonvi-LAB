@@ -54,6 +54,7 @@ Questi trasportatori sono espressi in misura maggiore nei muscoli rossi ossidati
 **Il controllo del trasporto degli acidi grassi indotto dall'esercizio dipende dall'AMPK**: come già visto nella Parte 2, l'AMPK agisce come sensore non solo per la biogenesi mitocondriale, ma anche per l'ossidazione degli acidi grassi e il trasporto del glucosio. L'agonista dell'AMPK, **AICAR**, induce l'espressione di tutti i trasportatori di FA sulla membrana. Nei topi con **doppio knock-out per AMPKα1/AMPKα2** si osservano invece una ridotta espressione dei trasportatori di FA e un ridotto utilizzo dei grassi durante l'esercizio, con conseguente riduzione dell'ossidazione dei FA — una dimostrazione ulteriore di come questi trasportatori, e non solo la disponibilità di substrato, siano un fattore limitante regolato attivamente dalla cellula:
 
 ![alt text](images/3/image21.png)
+
 *istogrammi che confrontano, in muscolo soleo (lento) e muscolo TA (tibiale anteriore, veloce) di topi wild-type e con knock-out muscolo-specifico di CD36 (mdKO), l'espressione proteica di CD36 e FABPpm, l'utilizzo di grassi durante l'esercizio, e l'ossidazione del palmitato in condizioni basali e di contrazione, tutti ridotti nei topi mdKO (Fenz et al., 2016)*
 
 ### Scomposizione dei trigliceridi intramuscolari (IMTG)
@@ -64,6 +65,7 @@ Gli enzimi chiave coinvolti nella lipolisi dei trigliceridi dalle goccioline int
 - l'attività della **lipasi ormono-sensibile** (HSL) è indotta dalla fosforilazione dipendente dal calcio (Ca²⁺) e dall'azione dell'adrenalina durante l'esercizio.
 
 ![alt text](images/3/image23.png)
+
 *schema della cascata di segnalazione che, tramite i recettori beta-adrenergici e la proteina Gs, attiva l'adenilato ciclasi e la produzione di cAMP, che attiva la PKA; PKA fosforila HSL, che insieme ad ATGL e MGL scompone i trigliceridi intramuscolari in diacilgliceridi, monogliceridi e infine glicerolo + acidi grassi liberi, con l'esercizio che potenzia questo processo*
 
 - **disponibilità immediata**: avere grassi già presenti nel muscolo (IMTG) è un vantaggio enorme, perché non devono viaggiare nel sangue per arrivare alle "centrali energetiche" (i mitocondri);
@@ -75,6 +77,7 @@ Gli enzimi chiave coinvolti nella lipolisi dei trigliceridi dalle goccioline int
 Il trasporto dei FA nei mitocondri è facilitato durante l'esercizio da due meccanismi principali:
 
 ![alt text](images/3/image22.png)
+
 *schema che confronta le condizioni di riposo (alti livelli di malonil-CoA, che inibiscono CPT1 e il trasporto degli FA) con le condizioni di esercizio (rapida diminuzione del malonil-CoA, che disinibisce CPT1 e favorisce l'ingresso mitocondriale degli acidi grassi a lunga catena, LCFA)*
 
 - l'**abbassamento del contenuto di malonil-CoA**, con conseguente disinibizione dell'attività del trasportatore chiave **carnitina palmitoil-transferasi 1** (CPT1);
@@ -187,6 +190,7 @@ Le vie dipendenti dall'attività contrattile in grado di indurre PGC-1 (viste ne
 *Studio (O'Neil et al., 2001)*: topi con AMPK knock-out, o con l'uso di varianti dominanti-negative (KD), presentano un ridotto aumento dell'assorbimento del glucosio indotto dall'esercizio fisico e una diminuita presenza di GLUT4 nel sarcolemma.
 
 ![alt text](images/3/image4.png)
+
 *tre grafici sperimentali: (1) O'Neil et al 2001 — confronto tra topi wild-type e AMPK-KO (β1β2M-KO) per l'assorbimento di 2-deossiglucosio, ridotto nei KO durante la contrazione; (2) confronto tra topi normali e transgenici con dominante-negativo per AMPK (Tg-KD1), con captazione ridotta durante la contrazione; (3) Mu et al 2001 — Western blot per GLUT4 sulla membrana del muscolo in contrazione, ridotto nei topi con AMPK dominante-negativo*
 
 L'attivatore dell'AMPK, **AICAR**, induce l'assorbimento del glucosio.
@@ -210,6 +214,7 @@ Durante l'esercizio fisico intenso, l'AMPK ha aumentato principalmente l'assorbi
 L'allenamento fisico aumenta la capacità dei muscoli di assorbire il glucosio in risposta a uno sforzo fisico intenso; questo è correlato con un incremento totale del **contenuto di GLUT4** nel muscolo.
 
 ![alt text](images/3/image12.png)
+
 *tabella che confronta il contenuto proteico di GLUT-4 (unità relative) nella gamba non allenata e in quella allenata per 3 settimane con un ergometro a estensione di ginocchio, prima e dopo l'allenamento: il contenuto di GLUT-4 aumenta significativamente solo nella gamba allenata (Kristiansen et al., 2000)*
 
 In acuto si osserva quindi una **rilocalizzazione** del trasportatore già presente, mentre la risposta adattativa all'allenamento cronico consiste in un aumento della **disponibilità** di recettori GLUT4 per il glucosio.
@@ -230,6 +235,7 @@ Il recettore nucleare **NURR1** (*Nuclear Receptor Related 1*):
 - è maggiormente up-regolato (aumentato) dalla contrazione muscolare dopo l'allenamento fisico (esercizio cronico).
 
 ![alt text](images/3/image5.png)
+
 *schema del promotore del gene GLUT4, con le sequenze regolatorie chiave (Dominio 1, KLF15/E-box, dominio MEF2, NRE, TRE) legate rispettivamente da GEF, KLF15/MyoD, MEF2 (stimolato da PGC-1) e NURR1/TRα1*
 
 #### Il complesso Mediator: un regolatore chiave del metabolismo mitocondriale
